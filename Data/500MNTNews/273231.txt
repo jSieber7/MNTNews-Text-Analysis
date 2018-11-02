@@ -1,0 +1,34 @@
+
+Type 1 diabetes is a chronic disease that affects an estimated 1-5 out of every 1,000 individuals in the U.S.
+
+Type 1 diabetes usually appears during childhood and it cannot currently be cured. To date, the reason for its development in certain people is not known. 
+
+In the 1970s, scientists discovered that the condition is caused by an autoimmune process. Then, in the 1980s, researchers found that suppressing the immune system slowed the disease's progress.
+
+It is now known that the immune system mistakenly attacks beta cells in the pancreas, which are responsible for making insulin.
+
+Researchers are investigating any angle that might offer fresh clues about the disease's etiology and how it might be tamed. Currently, the role of the gut in type 1 diabetes is a hot topic.
+
+In recent years, a link between type 1 diabetes and the gut has risen to the surface. For instance, individuals with type 1 diabetes show increased intestinal permeability and changes in the microvilli, which are microscopic, finger-like projections from the gut lining.
+
+Although the reasons behind these modifications are unclear, errant gut bacteria are currently the prime suspects.
+
+The most recent study to investigate this interaction was published this week in the Journal of Clinical Endocrinology & Metabolism. An Italian team set out to examine and measure changes in the gut's bacterial flora and levels of inflammation in people with type 1 diabetes.
+"Some researchers have theorized that the gut may contribute to the development of type 1 diabetes, so it is important to understand how the disease affects the digestive system and microbiome."Lorenzo Piemonti, senior author, San Raffaele Hospital
+Data for the study came from 54 participants, all of whom had endoscopies and biopsies of their duodenum (the first section of the intestine). All samples were taken between 2009-2015 at the San Raffaele Hospital in Italy. The researchers ensured that the participants' diets were similar at the time of the procedure.
+
+Earlier studies examining gut flora have relied on stool samples, but this method is flawed; it has previously been established that the bacterial composition of the duodenum and stool can differ significantly. The current approach, however, gave researchers a unique opportunity to directly assess the microbiome of these individuals and measure for biomarkers of inflammation. 
+
+Additionally, because of the duodenum's close proximity to the pancreas, as well as their shared blood supply, directly sampling tissue from this region offered the opportunity to examine their relationship. 
+
+In fact, a 2012 study using a mouse model found that if bacteria were artificially moved from the duodenum to the pancreatic ducts, an immune reaction was elicited that was potentially capable of destroying beta cells.
+
+The results showed that those with type 1 diabetes had significantly more signs of inflammation than both the control participants and individuals with celiac disease. Specifically, 10 inflammation-related genes were expressed significantly more in those with type 1 diabetes. 
+
+When the gut flora was examined, it was found to be markedly different from both the controls and those with celiac disease. In particular, they saw reduced levels of Proteobacteria (a wide group of organisms that includes Escherichia and Salmonella) and increased levels of Firmicutes (these include Bacilli and Streptococcus). This finding lines up well with studies in mouse models, in which similar changes in composition have been noted.
+
+The next step will be to understand whether the changes in the gut are caused by type 1 diabetes or vice versa. Either way, the study marks a step forward in our understanding of this condition. As Piemonti notes:
+
+"We don't know if type 1 diabetes' signature effect on the gut is caused by or the result of the body's own attacks on the pancreas. By exploring this, we may be able to find new ways to treat the disease by targeting the unique gastrointestinal characteristics of individuals with type 1 diabetes."
+
+Learn how type 1 diabetes is linked to enterovirus infection in children.

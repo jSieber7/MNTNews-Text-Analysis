@@ -1,0 +1,30 @@
+
+The sticky residue left behind by tobacco smoke can do worse damage than stinking up furniture and discoloring walls. Exposure to thirdhand smoke leads to biological effects on weight and cell development that could be damaging to one's health, according to new research led by scientists at the Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab).
+
+The researchers found that newborn mice housed with smoke-treated cloths for three weeks weighed significantly less than mice in a control group. Moreover, newborn and adult mice exposed to thirdhand smoke led to persistent changes in blood cell counts associated with the immune system for both newborn and adult mice. The blood cell count changes are associated with inflammatory and allergic reactions upon exposure to thirdhand smoke, the researchers said.
+
+Berkeley Lab researchers from the Biological Systems and Engineering Division and the Energy Technologies Area (ETA) teamed up with scientists at UC San Francisco and Nanjing Medical University for the study. The findings, to be reported in Scientific Reports, suggest that the dangers associated with smoking continue long after the cigarette is snuffed out.
+
+"We suspected that the young are most vulnerable because of their immature immune systems, but we didn't have a lot of hard evidence to show that before," said study lead author Bo Hang, a Berkeley Lab staff scientist who previously found that thirdhand smoke could lead to genetic mutations in human cells. "In this case, we found that thirdhand smoke appeared to inhibit weight gain in neonatal mice, but not in the young adults."
+
+Notably, the weight effect was temporary. Weeks after smoke exposure stopped, the mice began catching up with their non-exposed peers in weight.
+
+The researchers noted that human babies and toddlers are at greater risk because they come into contact with contaminated surfaces while crawling or teething during a critical window of immune system development.
+
+While the harmful effects of active and secondhand smoking have been well-established by decades of extensive studies, research into thirdhand smoke is still in its nascent stages. But evidence is mounting that the residue lingering on indoor surfaces could be just as harmful - if not more - than secondhand smoke.
+
+Some of the key studies in this area have come from Berkeley Lab with support from the Tobacco-Related Disease Research Program (TRDRP) through the California Consortium on Thirdhand Smoke. The program is funded by state cigarette taxes and managed by the University of California.
+
+Red flags were raised in 2010 when Berkeley Lab research led by Hugo Destaillats, Mohamad Sleiman, and Lara Gundel in ETA's Indoor Environment Group found that nicotine can react with ozone and nitrous acid in the air to create ultrafine organic aerosols and cancer-causing compounds. Subsequent studies led by Hang, Jian-Hua Mao, and Altaf Sarker at Berkeley Lab found that thirdhand smoke led to genetic instability in human and mouse cell lines and in mouse models.
+
+Destaillats, Gundel, Hang and Mao are all co-authors on this new study, which goes further by characterizing the biological effects of exposure to thirdhand smoke, an environment created by placing 5-square-centimeter pieces of smoke-contaminated cotton cloth in the cages with the mice. The researchers focused on changes to body weight and the hematopoietic system after three weeks of exposure for two age groups of mice: birth to 3 weeks (neonatal) and 12-15 weeks (young adult). They were compared to a control group of mice that were not exposed to smoke.
+
+While the effects on weight were only seen in the neonatal mice, changes in blood cell populations were evident in both age groups. In general, there were lower levels of platelets and specific types of white blood cells in the smoke-exposed mice. For example, neonatal mice exposed to thirdhand smoke had higher levels of eosinophils, female adults had higher levels of neutrophils, male adults had higher levels of basophils, and all mice had higher levels of B cells.
+
+"Those are all types of white blood cells associated with inflammation and allergic reactions," said Mao, the current study's corresponding author. "And the effects on blood cell count persisted even after exposure ended. Changes remained at least 14 weeks after exposure ended for the neonatal group, and two weeks after it ended for the adults."
+
+The researchers pointed out that they did not study whether the observed biological changes led to specific diseases or other health outcomes, but that other studies suggest links to adverse health effects.
+
+"Thirdhand smoke is an underappreciated risk factor in health," said study co-author Antoine Snijders. "It's clear that more and bigger studies are needed, particularly in humans, so we can support policy decisions on thirdhand smoke."
+
+Berkeley Lab research on DNA damage by thirdhand smoke was among the evidence cited by California legislators when they passed a bill in 2014 banning smoking in private homes used as day care centers.

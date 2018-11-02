@@ -1,0 +1,33 @@
+
+Study co-author Joseph McKenna, from Florida State University (FSU), and colleagues publish their findings in the journal PLOS Computational Biology.
+
+Insulin is produced by beta cells in the pancreas. Its primary role is to regulate blood glucose levels and help convert glucose from the carbohydrates we eat into energy. 
+
+In healthy individuals, beta cells release regular pulses of the hormone into the bloodstream. These pulses restrict the amount of glucose released by the liver, as well as propel body tissues to absorb the glucose that has been released.
+
+However, in people with high blood glucose - or hyperglycemia, a hallmark of type 2 diabetes - the excess glucose suppresses the "clock" of beta cells that controls the rhythm of insulin pulses, reducing insulin production.
+
+In the new study, McKenna and colleagues show how administering controlled pulses of glucose could normalize the production of insulin.
+
+Firstly, the team created a mathematical model - the Dual Oscillator Model (DOM) - to simulate experiments with the islets of Langerhans, which are small clusters of pancreatic cells that contain insulin-producing beta cells.
+
+The DOM model predicted that pulses of glucose to the bloodstream has the potential to reactivate the insulin clock within beta cells that has been halted by exposure to excess glucose.
+
+The team then tested this theory in non-diabetic mice that had their islets of Langerhans removed.
+
+Using a specially engineered microfluidic device, the researchers then delivered different concentrations of a glucose solution to the mouse islets.
+
+As expected, when a high, steady glucose concentration was administered, the insulin clock within the mouse islets was deactivated.
+
+When controlled pulses of glucose were applied to the islets, however, the insulin clock was restarted. What is more, when the flow of glucose solution followed a feedback loop that simulates the action of the liver, the team found the reactivated islets had the ability to recruit other islets and restart their insulin clock.
+
+According to the researchers, their findings provide insight into the reduced insulin production that occurs in type 2 diabetes.
+"This article demonstrates how microfluidics and mathematical modeling can be used together to gain new insights into the mechanisms for hormone secretion," says study co-author Richard Bertram, of the Department of Mathematics and Programs in Neuroscience and Molecular Biophysics at FSU.
+
+Importantly, the authors say their study may also lead to new prevention strategies for type 2 diabetes:
+"Here, we demonstrate, with a combined modeling and experimental approach, that the loss of pulsatile insulin release that results from elevated glucose may be recovered by an oscillatory glucose stimulus.
+
+Our results have potential implications for enhancing insulin pulsatility and therefore mitigating the development of type 2 diabetes."
+In future research, the team plans to apply the microfluidic device to islets from diabetic mice, before studying islets from healthy humans and those with diabetes.
+
+Read about how drinking at least two soft drinks daily could double the risk of diabetes.

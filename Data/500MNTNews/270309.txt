@@ -1,0 +1,38 @@
+
+Obesity is one of the most visible, yet most neglected public health problems, with an escalating global epidemic of overweight and obesity reaching many parts of the world.
+
+Around 600 million people worldwide are affected by obesity, with the condition significantly increasing the risk of heart disease, stroke, type 2 diabetes, osteoarthritis and some cancers.
+
+Evidence supporting the link between obesity and metabolic and cardiovascular diseases has accumulated since the 1940s. However, experts began to question in the 1970s and 80s the extent to which obesity increases the risk for these disorders.  
+
+Furthermore, studies in the late 90s and early 2000s found that not all obese individuals experienced a greater risk of metabolic and cardiovascular complications, and, in fact, they displayed a relatively healthy metabolic and cardiovascular profile, hence the term "metabolically healthy obesity."
+
+While no universally accepted criteria exist to define metabolically healthy obesity, a potential hallmark of the condition is a high sensitivity to insulin, a hormone that promotes uptake of blood glucose into cells to be used for energy. 
+
+Estimates suggest that up to 30 percent of obese individuals are metabolically healthy and, as a result, may not need as much intervention to prevent obesity-related complications.
+
+Mikael Rydén, of the Karolinska Institutet in Stockholm, Sweden, and colleagues examined the responses to insulin in 15 healthy participants and 50 obese subjects who were enrolled in a gastric bypass surgery clinical study.
+
+Biopsies of abdominal white fat tissue were obtained at the start and end of a 2-hour period of insulin and glucose received by intravenous infusion. Based on the glucose uptake rate, 21 obese individuals were classified as insulin sensitive, and 29 classed as insulin resistant. 
+
+Analysis of white fat tissue samples revealed a clear difference between healthy participants and insulin-sensitive and insulin-resistant obese individuals.
+
+In response to insulin stimulation, white fat tissue from both obese groups showed almost identical abnormal patterns of gene expression, which were not influenced by cardiovascular or metabolic risk factors such as waist-to-hip ratio, heart rate, or blood pressure.
+
+The researchers uncover that obesity - rather than other common risk factors - is likely the principle factor affecting metabolic health.
+
+"Our study suggests that the notion of metabolically healthy obesity may be more complicated than previously thought, at least in subcutaneous adipose tissue," says Rydén. 
+
+"There doesn't appear to be a clear transcriptomic fingerprint that differentiates obese subjects with high or low insulin sensitivity, indicating that obesity per se is the major driver explaining the changes in gene expression," he adds.
+
+Study limitations include that gene expression profiles were only examined in white fat tissue and not other types of fatty tissue or other organs. Also, all obese participants were due to go through bariatric surgery, suggesting the finding may only apply to obese individuals at the severe end of the scale.
+
+Overall, the study finds that white fat tissue samples from obese individuals classified as either metabolically healthy or unhealthy show almost identical, abnormal changes in gene expression in response to insulin stimulation.
+
+"The findings suggest that vigorous health interventions may be necessary for all obese individuals, even those previously considered to be metabolically healthy. Since obesity is the major driver altering gene expression in fat tissue, we should continue to focus on preventing obesity."
+Mikael Rydén
+"Insulin-sensitive obese individuals may not be as metabolically healthy as previously believed," says Rydén. "Therefore, more vigorous interventions may be necessary in these individuals to prevent cardiovascular and metabolic complications," he concludes.
+
+Future studies by the team will concentrate on tracking study participants after bariatric surgery to determine whether the associated weight loss normalizes gene expression responses to insulin. Additionally, Rydén and his collaborators will investigate particular genes linked to improved metabolic health in these people.
+
+Learn how the duration a person is overweight or obese can increase the risk of several cancers.

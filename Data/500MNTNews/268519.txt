@@ -1,0 +1,18 @@
+
+Malnourished children are most likely to die from common infections, not starvation alone, and immune disorder may be part of the cause, according to a review led by Queen Mary University of London.
+ 
+The paper, published in Trends in Immunology, also indicates that even with a healthy diet, defects in immune system function from birth could contribute to a malnourished state throughout life. These altered immune systems could be passed down from generation to generation regardless of the diet of any offspring.
+ 
+Researchers speculate that targeting immune pathways could be a new approach to reduce the poor health and mortality caused by under- and overnutrition.
+ 
+First author Claire Bourke, from the Centre for Genomics and Child Health at Queen Mary University of London, said: "That traditional image of malnutrition that we're unfortunately so familiar with - of someone wasting away - that's just the external picture. Those height and weight defects that we see are the tip of the iceberg - there are a whole range of pro-inflammatory conditions, impaired gut function, weakened responses to new infections, and a resulting high metabolic burden underlying them."
+ 
+The most common form of undernutrition globally is stunting - where children fail to achieve their full height potential. Despite looking healthy, children in developing countries who are stunted in height may also have stunted immune development, making them more vulnerable to death by common infections.
+ 
+Much of the previous data on the role of the immune system in malnutrition is outdated and only recently have researchers had access to technology that can accurately study immunodeficiency in this context. How malnutrition and immune function are related is still poorly understood, however, there is wide acceptance that malnutrition comes with a range of immune problems. These include reduced numbers of white blood cells, skin and gut membranes that are easier for pathogens to break through, and malfunctioning lymph nodes.
+ 
+Immune dysfunction results from consumption of too few calories because of lack of food, an inability to absorb nutrients effectively, or an excess of fat and sugar in the diet. If malnourished people have offspring, their children can also inherit an altered immune system (even after multiple generations), because that dysfunction is recorded in the DNA through epigenetic marks. This altered immune system may then cause malnutrition even if children have an adequate diet. 
+ 
+Claire Bourke adds: "There are new models for environmental enteric dysfunction in mice, a growing interest in microbiota and epigenetics - all of these studies show that the more we look into the immune system, the more it has a role to play in a really wide array of physiological systems. It doesn't just fight infection; it affects metabolism, neurological function, and growth, which are things that are also impaired in malnutrition."
+ 
+Bourke imagines a future where clinicians could generate individualised immune readouts that can identify young people most susceptible to infection as a result of malnutrition. This could reduce the burden of a leading cause of child mortality by helping those who are most vulnerable get treated more often and sooner with targeted interventions.

@@ -1,0 +1,18 @@
+
+A chemical found in our breath could provide a flag to warn of dangerously-low blood sugar levels in patients with type 1 diabetes, according to new research the University of Cambridge. The finding, published in the journal Diabetes Care, could explain why some dogs can be trained to spot the warning signs in patients.
+
+Claire Pesterfield, a paediatric diabetes specialist nurse at Addenbrooke's Hospital, Cambridge University Hospitals NHS Foundation Trust has type 1 diabetes, which requires insulin injections to manage blood sugar levels. She also has a golden Labrador dog that has been trained by the charity Medical Detection Dogs to detect when her blood sugar levels are falling to potentially dangerous levels.
+ 
+"Low blood sugar is an everyday threat to me and if it falls too low - which it can do quickly - it can be very dangerous," says Claire. "Magic is incredible - he's not just a wonderful companion, but he's my 'nose' to warn me if I'm at risk of a hypo. If he smells a hypo coming, he'll jump up and put his paws on my shoulders to let me know."
+ 
+Hypoglycaemia - low blood sugar - can cause problems such as shakiness, disorientation and fatigue; if the patient does not receive a sugar boost in time, it can cause seizures and lead to unconsciousness. In some people with diabetes, these episodes can occur suddenly with little warning.
+ 
+Given the reports of dogs alerting owners to blood glucose changes, researchers at the Wellcome Trust-MRC Institute of Metabolic Science, University of Cambridge, believed that certain naturally-occurring chemicals in exhaled breath might change when glucose levels were low. In a preliminary study to test this hypothesis, the scientists gradually lowered blood sugar levels under controlled conditions in 8 women, all around their forties, and all with type 1 diabetes. They then used mass spectrometry - which look for chemical signatures - to detect the presence of these chemicals.
+ 
+The researchers found that levels of the chemical isoprene rose significantly at hypoglycaemia - in some cases almost doubling. They believe that dogs may be sensitive to the presence of isoprene, and suggest that it may be possible to develop new detectors that can identify elevated levels of isoprene in patients at risk.
+ 
+"Isoprene is one of the commonest natural chemicals that we find in human breath, but we know surprisingly little about where it comes from," says Dr Mark Evans, Honorary Consultant Physician at Addenbrooke's Hospital, University of Cambridge. "We suspect it's a by-product of the production of cholesterol, but it isn't clear why levels of the chemical rise when patients get very low blood sugar.
+ 
+"Humans aren't sensitive to the presence of isoprene, but dogs with their incredible sense of smell, find it easy to identify and can be trained to alert their owners about dangerously low blood sugar levels. It provides a 'scent' that could help us develop new tests for detecting hypoglycaemia and reducing the risk of potentially life-threatening complications for patients living with diabetes."
+ 
+The research was funded by the National Institute for Health Research (NIHR) Cambridge Biomedical Research Centre with support from the Cambridge NIHR Wellcome Trust Clinical Research Facility.

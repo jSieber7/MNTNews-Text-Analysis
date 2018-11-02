@@ -1,0 +1,36 @@
+
+Citrus fruits contain several antioxidants that may prevent a range of health concerns. According to a recent article exploring the health benefits of popular foods, citrus fruits may lower ischemic stroke risk, maintain blood pressure, and support heart health.
+
+Fruits and vegetables contain antioxidants called flavonoids, which are the largest group of phytonutrients - plant chemicals - with more than 6,000 types. Phytonutrients along with carotenoids are responsible for the vivid colors of fruits and vegetables.
+
+There are several groups of flavonoids, including anthocyanidins, flavanols, flavones, flavanones and isoflavones. Flavanones, such as hesperidin, eriocitrin, and eriodictyol, are abundant in citrus fruits and have been associated with lowering oxidative stress in vitro and animal models. 
+
+"Our results indicate that in the future we can use citrus flavanones, a class of antioxidants, to prevent or delay chronic diseases caused by obesity in humans," says Paula S. Ferreira, a graduate student with the research team.
+
+The investigators are presenting the results of the study at the 252nd National Meeting & Exposition of the American Chemical Society (ACS).
+
+According to the CDC, more than one third of all adults in the United States are obese. Obesity is a significant factor in increasing the risk of developing heart disease, liver disease, and type 2 diabetes, potentially due to oxidative stress and inflammation Ferreira explains. 
+
+Consuming a high-fat diet leads to an accumulation of fat in the human body. Fat cells produce excessive reactive oxygen species, which can damage cells. 
+
+While the body can fight off oxidative stress molecules with antioxidants, obese patients have enlarged fat cells, which can lead to higher levels of oxidative stress that overwhelms the body's ability to counteract them.
+
+Ferreira and colleagues aimed to observe the effects of citrus flavanones on mice with no genetic modifications that were fed a high-fat diet.
+
+The team, at Universidade Estadual Paulista (UNESP) in Brazil, treated 50 mice with flavanones - hesperidin, eriocitrin, and eriodictyol - found in oranges, lemons, and limes.
+
+The mice were split into categories, and over the course of a month, were fed a standard diet, a high-fat diet, a high-fat diet plus hesperidin, a high-fat diet plus eriocitrin, or a high-fat diet plus eriodictyol. 
+
+Compared with the standard diet, the high-fat non-flavanone diet raised levels of cell-damage markers - thiobarbituric acid reactive substances (TBARS) - by 80 percent in the blood and 57 percent in the liver of the mice.
+
+However, hesperidin, eriocitrin, and eriodictyol decreased levels of TBARS in the liver by 50 percent, 57 percent, and 64 percent, respectively, when compared with the high-fat non-flavanone diet. Mice treated with hesperidin and eriodictyol also had reduced fat accumulation and damage in the liver.
+
+As with the results in the liver, eriocitrin and eriodictyol reduced TBARS levels in the blood by 48 percent and 47 percent, respectively, in mice on the high-fat non-flavanone diet.
+
+"Our studies did not show any weight loss due to the citrus flavanones," says Thais B. Cesar, Ph.D., who leads the team. "However, even without helping the mice lose weight, they made them healthier with lower oxidative stress, less liver damage, lower blood lipids and lower blood glucose."
+
+"This study also suggests that consuming citrus fruits probably could have beneficial effects for people who are not obese, but have diets rich in fats, putting them at risk of developing cardiovascular disease, insulin resistance, and abdominal obesity."
+Paula S. Ferreira
+Future studies will explore the best ways to administer the flavanones comparing delivery through fruit juice, consuming fruits, or developing an antioxidant pill. The team also plans to move on from mouse studies to human studies.
+
+Read about how suppressing an antioxidant-promoting protein can kill pancreatic cancer cells.

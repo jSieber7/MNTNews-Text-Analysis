@@ -1,0 +1,41 @@
+
+
+
+
+
+Experts at Johns Hopkins have linked scientific evidence spanning more than 30 years to suggest an explanation for why  testicular cancer  patients like seven-time Tour de France winner Lance Armstrong survive far better than patients with other advanced  cancers . Their commentary in the July 26 issue of the Journal of the American Medical Association reveals how a simple factor - heat sensitivity - may make testicular cancer cells more susceptible to standard treatments and die off more readily. Heat also may offer a strategy against other malignancies as well, they said.
+   
+"If we understand how heat may naturally help kill testicular cancer cells, then perhaps we can make it happen in other solid tumors," said Robert Getzenberg, Ph.D., professor and director of urology research at Johns Hopkins. "More than 80 percent of men with widespread testicular cancer can achieve a cure. In other cancers, the cure rate is far less."
+   
+Armstrong's  tumor , like those of all primary testicular cancer, began in the testes, which are a few degrees cooler than the rest of the body to keep heat-sensitive sperm safe. When his cancer cells spread into warmer regions of the body, the Hopkins scientists believe the temperature boost may have weakened protein scaffolding within the cancer cell's nucleus, making the nuclear DNA more vulnerable to  chemotherapy  and radiation.
+   
+"Heat is at the center of many cellular changes," according to Donald Coffey, Ph.D., who is the Catherine Iola & J. Smith Michael Distinguished Professor of Urology, Oncology, Pathology, and Pharmacology and Molecular Sciences at Johns Hopkins. "It drives everything from reproduction to fighting infection, and now we'd like to harness its power to fight cancer." Scientists in the past have observed that  fevers  accompanying infections sometimes improved the outcome for some cancer patients, but until now, Coffey said, "scientists haven't connected precisely how heat affects the scaffolding and might be one of the reasons treatment can cure tumors such as Lance Armstrong's."
+   
+Support for the theory came from an unrelated study by researchers at the Robert Wood Johnson Medical School of men with undescended testes, a fairly common birth defect in which the genitals remain stuck in the pelvis after birth instead of descending into the scrotum. Without treatment,  infertility  is common and further examination of the men's sperm showed that the sperm cells' nuclear protein scaffolding, known technically as the nuclear matrix, was also wrecked. The nuclear matrix, found in the nucleus of all cells, was first discovered in the early 1980s by a team of Hopkins scientists led by Coffey, and shown to be heat-sensitive by researchers at the Washington University in St. Louis.
+   
+"The warmer region of the pelvis made the nuclear matrix in the cells that make sperm unstable and prone to death," says Theodore DeWeese, M.D., professor and director of the Department of Radiation Oncology and Molecular Radiation Sciences, "and cancer cells already have unstable nuclear matrices." He and his colleagues say it is logical to think that "if we give a cancer cell more heat to completely disrupt its matrix, and then add toxic drugs and radiation, the cancer cell may be so disabled that it won't be able to replicate and will die."
+   
+Heat therapy is already used in a handful of cancer centers around the country, and has been applied for thousands of years as an ancient cure-all for ailments ranging from  back pain  to  arthritis . Although people flock to hot baths and springs to immerse their entire body, the Hopkins trio believes that selectively heating cancer cells may not only be more effective, but also prevent matrix damage in normal tissues.
+   
+"Once we've devised the best way to deliver heat to cancer cells, we will test the technique in animal models to help define the right temperature and doses of chemo and  radiation therapy ," says DeWeese.
+   
+To direct heat only to cancer cells, the researchers are investigating the use of nanoparticles that have an affinity for surface proteins carried by cancer cells. Once the nanoparticle finds the correct "address" of the cancer cell, it slips through the cell's surface and heats the cell from the inside out after exposure to a magnetic field.
+   
+The Hopkins scientists believe that, if injected through the bloodstream, magnetic nanoparticles may be able to reach tumors throughout most of the body. And as long as the nanoparticles penetrate most of the cells in the tumor, the temperature increase will spread to the entire mass.
+   
+On a parallel track, the Hopkins group is looking at other temperature targets for heat's cancer-fighting properties that may work in tandem with the nuclear matrix. For example, they are looking at blocking proteins whose primary role is to act as fire blankets to coat the nuclear matrix and preserve it from heat damage. These so-called "heat shock proteins" also have a second role as "chaperones" to other proteins, ensuring their proper interaction and shape, and, depending on these interactions, may play a role in cancer-cell death.
+   
+Preliminary research is under way at Johns Hopkins to refine heat-delivery-systems and test them in  prostate cancer  animal models.
+   
+###
+   
+This commentary was supported by the David Koch Funds, which were provided by the Prostate Cancer Foundation.
+   
+On the Web:  
+ target="_blank">http://www.hopkinskimmelcancercenter.org/ 
+  
+ http://urology.jhu.edu/ 
+   
+Contact: Vanessa Wasta
+  
+ Johns Hopkins Medical Institutions 

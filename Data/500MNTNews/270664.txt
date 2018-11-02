@@ -1,0 +1,24 @@
+
+Researchers in Pennsylvania and Iowa have discovered that fungal communities found in chronic wounds can form mixed bacterial-fungal biofilms and can be associated with poor outcomes and longer healing times. Their report, the first deep characterization of the fungi found in diabetic foot ulcers, is published this week in mBio, an online open-access journal of the American Society for Microbiology.
+
+The team followed 100 patients with diabetic foot ulcers - open wounds located on the bottom of the foot - during the course of 26 weeks, or until the wound healed or required amputation. Their findings highlight that fungal components of the microbiome can play a major role in hampering the healing of chronic wounds.
+
+"Chronic wounds are a silent epidemic," says Elizabeth Grice, assistant professor of dermatology and microbiology at University of Pennsylvania in Philadelphia and senior author on the study. "They usually occur in conjunction with another disorder such as diabetes or obesity, but once a chronic wound occurs, it requires a lot of healthcare and has a devastating effect on a patient's quality of life."
+
+The American Diabetes Association estimates that more than 7 million diabetics in the US will have a diabetic foot ulcer in their lifetime and 15 percent will end up with a lower limb amputation. Healthcare for chronic wounds in the US costs tens of billions of dollars each year.
+
+Grice and postdoctoral researcher Lindsay Kalan wanted to know which fungal species make up the communities thriving deep inside a chronic wound and what roles they might play in impaired healing. This represents a "huge missing piece" of chronic wound research, says Grice.
+
+All of the ulcer patients were given the same medical care. A team led by Sue Gardner, professor of nursing at University of Iowa, sampled patients' deep wound fluid every two weeks. Those samples were sent to Grice and Kalan for genetic sequencing and identification of the fungi residing in the wounds.
+
+The team found that 80 percent of the wounds harbored fungi - much higher than previous estimates - from 284 different species. The most abundant fungus, Cladosporium herbarum, was found in 41percent of the samples and the human pathogen Candida albicans was next most abundant, in a little over one-fifth of the samples.
+
+No single species of fungi was associated with poor outcomes, but rather mixed communities were associated with slow healing or complications such as bone infection and amputation. However, higher levels of ascomycetes, or sac fungi, at the initial swabbing were associated with wounds that took longer than 8 weeks to heal.  This hints that, in the future, doctors might be able to swab wounds to get a quick prediction of the time to heal.
+
+Kalan looked at two patients' wounds more closely to determine if their stable communities of microbes could grow biofilms, which are thought to keep many chronic wounds festering.
+
+She isolated the C. albicans yeast and Citrobacter freundii bacteria from a patient whose wound eventually healed and she isolated the fungus Trichosporon asahii and bacteria Staphylococcus simulans from a patient whose wound resulted in an amputation.  When she co-cultured these bacterial-fungal pairs in the laboratory, she found that both pairs formed a mixed biofilm.
+
+"Lindsay showed very nicely that the fungi interact with the bacteria, potentially making biofilms within wounds," says Grice. "You can't properly target treatment if you are missing that critical interaction."
+
+Kalan says the study is a first step toward better understanding chronic wounds and develop better ways to treat them: "There are polymicrobial interactions within these wounds. It's important to look at the fungal and bacterial communities and how they interact with each other and the immune system to impair or promote healing."

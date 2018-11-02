@@ -1,0 +1,17 @@
+
+
+Extreme heat and heavy rainfall are related to increased risk of hospitalization for asthma in Maryland, according to a study by University of Maryland School of Public Health researchers.
+
+Based on over a decade of asthma hospitalization data (115,923 cases from 2000-2012), researchers observed higher risk of asthma hospitalization after extreme heat or extreme precipitation events. The increases in risk were particularly high during summer months. Their findings are published in the journal Environmental Health.
+
+"Previous scientific studies have shown that extreme weather events are becoming more common, more intense, and longer lasting in response to our changing climate. Our study shows is that increases in the number of extreme heat and extreme precipitation events, particularly during summer months, lead to more asthma hospitalizations in Maryland." said Dr. Amir Sapkota, senior author of the study and an associate professor at the Maryland Institute for Applied Environmental Health.
+
+Recent estimates suggest that over 430,000 adults and 125,000 children in Maryland are living with asthma. Researchers observed a 23% increase in risk of asthma hospitalizations when there was an extreme heat event during summer months. This risk was higher among 5-17 year olds. Similarly, extreme precipitation events during summer months increased the risk of asthma hospitalizations by 11%. "Our data show that the risk of hospitalization for asthma related to extreme weather varies across demographic subgroups in Maryland. We need to take such differences into account when designing public health responses to climate change", said Dr. Sutyajeet Soneja, a postdoctoral fellow at the Maryland Institute for Applied Environmental Health, and lead author of the study.
+
+To identify extreme weather events, the researchers relied on county and calendar day specific thresholds for precipitation and maximum temperature (90th and 95th percentile, respectively) that were calculated based on 30 years of baseline data (1960-1989). The researchers suggest that extreme heat events during summer months may lead to higher concentration of harmful air pollutants such as ozone, which is known to exacerbate asthma. Extreme precipitation events may lead to release of pollen spores, leading to severe asthma attack and subsequent hospitalization. 
+
+Exposure to extreme heat and precipitation events associated with increased risk of hospitalization for asthma in Maryland, U.S.A. Sutyajeet Soneja, Chengsheng Jiang, Jared Fisher, Crystal Romeo Upperman, Clifford Mitchell and Amir Sapkota. 
+Environmental Health.
+DOI:10.1186/s12940-016-0142-z.
+Published online 27 April 2016. 
+

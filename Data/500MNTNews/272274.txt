@@ -1,0 +1,36 @@
+
+Study co-author Eran Elinav, of the Weizmann Institute of Science in Israel, and colleagues publish their findings in the journal Nature.
+
+The United States is in the midst of an obesity epidemic, with more than 1 in 3 adults and 1 in 6 children and adolescents considered obese.
+
+While adopting a healthy diet is considered a key weight loss strategy for individuals who are overweight or obese, very few people are able to achieve long-term weight loss.
+
+Elinav and team note that up to 80 percent of people who initially lose weight with dieting will regain their lost weight - and sometimes gain even more - within 12 months. 
+
+This weight loss and regain can occur in cycles - a phenomenon known as the "yo-yo effect" or "weight cycling," which studies have shown can carry significant health risks. A recent study reported by Medical News Today, for example, found that yo-yo dieting can increase the risk of death from heart disease. 
+
+But exactly why do so many individuals have trouble losing weight and keeping it off? New research suggests it may be down to changes in the gut microbiome - the abundance of microorganisms in the intestine - in response to dieting.
+
+Elinav and colleagues used a mouse model of recurrent obesity to reach their findings, whereby they repeatedly fed the rodents high amounts of fat, followed by normal chow, which triggered cycles of weight loss and weight gain.
+
+"As observed in recurrently dieting humans, a preceding obesity-weight loss cycle rendered mice susceptible to accelerated secondary weight gain, even after fully returning to baseline weight," note the authors.
+
+"As a result, the net weight gain, i.e. the weight induced during identical durations of high-fat feeding, was higher in the weight cycling group as compared to mice continuously fed an HFD [high-fat diet]," they add.
+
+On assessing the gut microbiomes of the mice, the researchers identified specific alterations in response to the high-fat diet, and these remained even after the mice lost weight with the normal-chow diet.
+
+Interestingly, when the rodents were reintroduced to the high-fat diet, the researchers found that the altered gut microbiome appeared to speed up their weight regain.
+
+To test their findings further, the team transferred the altered gut microbiome to mice that had not been exposed to yo-yo dieting, but which were subsequently exposed to a high-fat diet. 
+
+Compared with control mice, the rodents with the altered gut microbiome experienced faster and greater weight gain.
+
+On further investigation, the researchers found that the altered gut microbiome played a role in reducing levels of two flavonoids -  apigenin and naringenin - in response to dieting, which are plant compounds that boast a number of health benefits.
+
+What is more, the team found that this reduction in flavonoids interfered with expression of UCP-1 - a gene that plays a role in energy expenditure, or the amount of calories we burn. It is this process, the researchers speculate, that likely drives recurrent weight gain.
+
+The researchers say their findings suggest a "post-biotic" therapy may be effective against weight regain after dieting, whereby flavonoids are introduced to the gut to replenish those lost by dieting. This strategy was found to be effective in mice, the team reports.
+
+While further research is needed to determine whether such a strategy would be effective in humans, the authors believe their results hold promise:
+"Together, our data highlight a possible microbiome contribution to accelerated post-dieting weight regain, and suggest that microbiome-targeting approaches may help to diagnose and treat this common disorder."
+Read how a high-protein diet may aid weight loss.

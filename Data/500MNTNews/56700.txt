@@ -1,0 +1,25 @@
+
+
+
+
+
+Genetic variations may help explain why some men with  depression  develop  suicidal thoughts  and behaviors after they begin taking  antidepressant  medications, while most do not, according to a report in the June issue of  Archives of General Psychiatry , one of the JAMA/Archives journals.
+   
+Although most patients with depression respond favorably to antidepressant medications, a very small subgroup may experience worse symptoms after beginning treatment, according to background information in the article. "Regardless of treatment specificity, nearly all antidepressant medication studies find that some patients experience suicidality [suicidal thoughts and behaviors] after treatment initiation," the authors write. "Identification of this subpopulation before treatment would have tremendous clinical utility."
+   
+Roy H. Perlis, M.D., of Massachusetts General Hospital and Harvard Medical School, Boston, and colleagues studied 1,447 individuals with depression who were part of the Sequenced Treatment Alternatives to Relieve Depression (STAR*D) study, which was conducted from July 2001 to September 2006, and who did not express suicidal thoughts at the beginning of the study. The participants were men and women ages 18 to 75 years who had been diagnosed with non-psychotic major depressive disorder. They took the antidepressant citalopram hydrobromide for up to 12 weeks, following a protocol that advised follow-up treatment visits at two, four, six, nine and 12 weeks, with an optional visit at 14 weeks if needed. The patients' DNA was analyzed for common types of mutations nearby or within the CREB1 gene, which codes for a protein previously suggested to be involved in both antidepressant effects and suicide.
+   
+Of the 1,447 patients, 123 (8.5 percent) reported suicidal thoughts or behaviors during at least one follow-up visit, including 54 (10 percent) of the 539 men. Two of five single nucleotide polymorphisms (SNPs) - variations that occur when a single building block of DNA is altered - were significantly and strongly associated with the onset of suicidality in men, but not in women.
+   
+The researchers performed additional analyses suggesting these variations are not linked to suicidal thoughts and behaviors in men before treatment. "No statistically significant association was noted between any SNP and the presence or absence of baseline suicidality," the authors write. "Likewise, no evidence of association was noted between any SNP and history of lifetime suicide attempt."
+   
+Studies that link genes to illnesses are most compelling when there is additional evidence of that gene's function, the authors note. "We recently observed an association between the same CREB1 polymorphisms and a measure of anger expression among males but not females in a sample of 94 patients with major depressive disorder; hostility and anger expression have also been associated with suicide," they write.
+   
+"If replicated, this finding would suggest that pharmacogenetic testing could facilitate the identification of the small subset of individuals at greater risk during short-term antidepressant treatment," the authors conclude.
+   
+( Arch Gen Psychiatry . 2007;64:689-697)
+   ###
+   The STAR*D study is supported by federal funds from the National Institute of Mental Health. Dr. Perlis is supported by a National Institute of Mental Health grant, a NARSAD Young Investigator Award and a grant from the Bowman Family Foundation. Please see the article for additional information, including other authors, author contributions and affiliations, financial disclosures, funding and support, etc.
+   
+Contact: Sue McGreevey  
+ JAMA and Archives Journals 

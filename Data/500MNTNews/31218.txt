@@ -1,0 +1,26 @@
+
+
+
+
+
+Scientists have unexpectedly discovered that mice with the gene defect that causes  colon cancer  in humans can differ from normal mice in how they respond to radiation treatments. The large intestine carrying the gene defect in mice that received staggered doses of radiation was three to four times more resistant to the radiation than in control mice.
+   
+The researchers, led by Bruce Boman, M.D., Ph.D., director of the Division of Genetic and Preventive Medicine at Jefferson Medical College of Thomas Jefferson University in Philadelphia and at Jefferson\'s Kimmel Cancer Center and Dennis Leeper, Ph.D., professor of radiation oncology at Jefferson Medical College, say these results may have implications for treating patients with colon cancer, which is a  tumor  that frequently has mutations in a gene called APC.
+   
+They reported their findings this week at the 2006 annual meeting of the American Association for Cancer Research in Washington, D.C. (Stem Cell Number and Radiation Resistance During Repair in Colonic Crypts of APC Mice: Abstract no. LB-311).
+   
+Scientists have known that patients\' colon tumors with APC mutations have an increased amount of survivin, a protein that halts the process of programmed cell death. This increase also appears to be associated with a rise in the number of  stem cells  that sit at the bottom of colonic crypts, tube-like structures that make up the lining of the intestine. Drs. Leeper and Boman wanted to see if there was a difference in stem cell number between normal mice and mice that carry a mutation in APC. To do this, they exposed both normal and mutant mice to radiation, testing their ability to repair the resulting DNA damage. They speculated that increased survivin in the mutant mice might enable more stem cells to survive and affect the response to radiation. The researchers asked if mice with an APC mutation, making them prone to develop colon cancer, are different from normal mice in radiation sensitivity and their ability to repair the damage. Normal cells can repair DNA damage from radiation, Dr. Leeper explains.
+   
+They measured the survival of colon crypts in the small and large intestines in normal and mutant mice following radiation exposure, looking at the responses to both single doses of radiation and to staggered or \"fractionated\" doses of radiation, where the second dose is given five hours after the first dose, again causing the DNA repair to kick in.
+   
+\"In the normal mouse the radiation-induced damage in the intestine is repaired, just as we expected,\" Dr. Boman explains. In fact, intestinal cells in both the mutant mouse and normal mouse reacted the same to the single dose of radiation.
+   
+But the mutant mice responded differently to the staggered radiation. \"When we irradiate five hours later when repair has begun, and damage is being repaired, and then a second dose of radiation is given, the mutant mice are resistant,\" says Dr. Leeper. More specifically, the Jefferson team found that in the large intestine in the mutant mice, the colon crypt cells were more resistant to radiation by a factor of three to four.
+   
+\"This has never been observed before to my knowledge,\" Dr. Leeper says. \"This is a novel finding.\" He notes that the results could have important implications as to how radiation is given to colon cancer patients. \"If you are giving radiation once a day, it shouldn\'t be a problem. But if you are fractionating treatments, given it two or three times a day, this finding could have implications. We would want to make sure that repair processes and signaling receptors come back to baseline before a second dose of  chemotherapy  is given.\"
+   
+###
+   
+Contact: Steve Benowitz  
+steven.benowitz@jefferson.edu  
+ Thomas Jefferson University  

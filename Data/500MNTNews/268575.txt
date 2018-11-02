@@ -1,0 +1,14 @@
+
+Early exposure to nicotine can trigger widespread genetic changes that affect formation of connections between brain cells long after birth, a new Yale-led study has found. The finding helps explains why maternal smoking has been linked to behavioral changes such as attention deficit and hyperactivity disorder, addiction and conduct disorder.
+
+Nicotine does this by affecting a master regulator of DNA packaging, which in turn influences activity of genes crucial to the formation and stabilization of synapses between brain cells, according to the study published online in the journal Nature Neuroscience.
+
+"When this regulator is induced in mice, they pay attention to a stimulus they should ignore,'' said Marina Picciotto, the Charles B.G. Murphy Professor of Psychiatry, professor in the Child Study Center and the Departments of Neuroscience and Pharmacology, and senior author of the paper.
+
+An inability to focus is the hallmark of attention deficit hyperactivity disorder and other behavioral disorders, which have been linked to maternal smoking and exposure to second-hand smoke. However, scientists did not understand how early environmental exposure to smoking could create behavioral problems years later.
+
+Picciotto's lab found that mice exposed to nicotine during early development did indeed develop behavioral problems that mimic symptoms of attention deficit disorder in humans. They then did extensive genomic screening of mice exposed to nicotine and found higher levels of activity in a key regulator of histone methylation - a process that controls gene expression by changing the DNA wrapping around chromosomes. The researchers found that genes essential to the creation of brain synapses were heavily effected.
+
+Furthermore, the scientists found that these genetic changes were maintained even in adult mice. However, when researchers inhibited the master regulator of histone methylation, these adult mice were calmer and no longer reacted to a stimulus they should ignore. In a final test, they triggered expression of this regulator in mice never exposed to nicotine, and the mice exhibited behavior that mimicked attention deficit disorder.
+
+"It is exciting to find a signal that could explain the long-lasting effects of nicotine on brain cell structure and behavior," Picciotto said. "It was even more intriguing to find a regulator of gene expression that responds to a stimulus like nicotine and may change synapse and brain activity during development."

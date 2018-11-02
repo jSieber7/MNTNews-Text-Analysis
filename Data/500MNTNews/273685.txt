@@ -1,0 +1,18 @@
+
+Australia could save AUD $3.4 billion (USD $2.3 billion) in healthcare costs over the remaining lifetimes of all Australians alive in 2010 by instituting a combination of taxes on unhealthy foods and subsidies on fruits and vegetables, according to a new study published in PLOS Medicine by Linda Cobiac, from the University of Melbourne, Australia and colleagues.
+ 
+An increasing number of Western countries have implemented or proposed taxes on unhealthy foods and drinks in an attempt to curb rates of dietary-related diseases, however the cost-effectiveness of combining various taxes and subsidies is not well-understood. In the new study, researchers modeled the effect of taxes on saturated fat, salt, sugar, and sugar-sweetened beverages and a subsidy on fruits and vegetables on the Australian population of 22 million alive in 2010. They simulated how different combinations of these taxes and subsidies - designed so there would be less than a one percent change in total food expenditure for the average household - impacted the death and morbidity rates of Australians as well as healthcare spending over the remainder of their lives.
+  
+The greatest impact, the researchers concluded, came from a sugar tax, which could avert 270,000 disability-adjusted life years (DALYs, or years of healthy lifespan across the population lost due to disease). "That is a gain of 1.2 years of healthy life for every 100 Australians alive in 2010," the authors say.  "Few other public health interventions could deliver such health gains on average across the whole population." 
+  
+A salt tax was estimated to save 130,000 DALYS over the remainder of the lives of Australians alive in 2010, a saturated fat tax 97,000 DALYs, and a sugar-sweetened beverage tax 12,000 DALYs. Combined with taxes, the fruit and vegetable subsidies made for additional averted DALYs and reduced health sector spending, but on their own were not estimated to lead to a clear health benefit. Overall, when combined to maximize benefits, the taxes and subsidies could save an estimated 470,000 DALYs and reduce spending by AUD $3.4 billion (USD $2.3 billion).
+  
+"Simulation studies, such as ours, have uncertainty.  For example, we are reliant on other research estimating the responsiveness of the public to changes in food prices. There are also implementation issues for the food industry." 
+  
+"Nevertheless, this study adds to the growing evidence of large health benefits and cost-effectiveness of using taxes and regulatory measures to influence the consumption of healthy foods," the authors say. "We believe that with such large potential health benefits for the Australian population and large benefits in reducing health sector spending...the formulation of a tax and subsidy package should be given more prominent and serious consideration in public health nutrition strategy."
+  
+"Several countries have imposed taxes on sugary drinks, with the UK the latest to consider such a policy.  Our research suggests that even bigger health gains and cost savings may be possible with food taxes and subsidies on a wider range of foods."
+ 
+LJC was supported by a National Health and Medical Research Council Fellowship (Grant number 1036771;). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+ 
+LJC is a member of the Editorial Board of PLOS Medicine.

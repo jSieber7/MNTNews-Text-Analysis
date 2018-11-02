@@ -1,0 +1,46 @@
+
+The benefits of physical activity are well known. The Centers for Disease Control and Prevention (CDC) report that regular physical activity can reduce the risk of severe illnesses, such as type 2 diabetes, cancer, and cardiovascular disease. 
+
+Exercise can also improve one's overall physical and mental health, as well as increase longevity.   
+
+If you are looking to control your weight, the advantages of exercise are numerous. Not only has physical activity been shown to reduce metabolic syndrome - which means that it is good for regulating one's metabolism - but it also burns calories, and in combination with a healthful diet, exercise can help to maintain weight over a long period of time. 
+
+While many people are aware of the benefits of physical activity in theory, many of us find it particularly hard in practice to stay physically active. New research may help to explain why this is so. 
+
+Lead researcher Alexxai V. Kravitz - of the Diabetes, Endocrinology, and Obesity Branch at the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) - wondered why it is that obese animals have such a hard time doing physical activity. 
+
+The common perception is that animals, or people that are obese, are less physically active because they have to carry much more body weight. However, because Kravitz has a background in Parkinson's disease, he noticed similarities between obese mice and Parkinsonian mice while he was studying.
+
+This triggered his hypothesis that perhaps something else could contribute to physical inactivity.
+"We know that physical activity is linked to overall good health, but not much is known about why people or animals with obesity are less active. There is a common belief that obese animals don't move as much because carrying extra body weight is physically disabling. But our findings suggest that assumption does not explain the whole story." Alexxai V. Kravitz
+Kravitz hypothesized that a dysfunction in rodents' dopamine system might help to explain their lack of physical activity. 
+
+"Other studies have connected dopamine signaling defects to obesity, but most of them have looked at reward processing - how animals feel when they eat different foods. We looked at something simpler: dopamine is critical for movement, and obesity is associated with a lack of movement. Can problems with dopamine signaling alone explain the inactivity?"
+
+Researchers set out to examine dopamine signaling in lean and obese mice, and 
+the findings were published in the journal Cell Metabolism.
+
+To do this, they fed a group of eight mice a normal diet, and they fed another group a high-fat diet for 18 weeks. 
+
+Starting from week 2, the mice on a high-fat diet started gaining significantly more weight than the lean ones. By week 4, obese mice spent less time moving, had fewer movements, and were slower when they did move, compared with lean mice. 
+
+Scientists examined whether changes in movement correlated with body weight gain, and they found that it did not. Interestingly, the mice on a high-fat diet moved less before they gained the majority of the weight, which suggests that the extra weight could not have been responsible for the reduced movement. 
+
+To identify the mechanisms behind physical inactivity, Kravitz and team quantified several aspects of dopamine signaling. 
+
+They found that the D-2 type receptor (D2R) binding, found in the striatum, was reduced in obese mice. This was consistent with previous research in rodents. 
+
+Then, scientists genetically removed D2Rs from the striatum of lean mice to determine if there was a causal link between D2Rs and inactivity. Researchers then placed the lean mice on a high-fat diet. 
+
+Surprisingly, they found that these mice did not gain more weight, despite their physical inactivity. 
+
+This suggests that although deficits in striatal D2R contribute to physical inactivity in obesity, such inactivity is more "a consequence than a cause of obesity," as the authors put it. 
+
+Although "there are probably other factors involved as well, the deficit in D2 is sufficient to explain the lack of activity," says Danielle Friend, first author of the study and former NIDDK postdoctoral fellow.
+
+Kravitz mentions that his future research will examine the connection between diet and dopamine signaling. Kravitz and team will investigate whether unhealthful eating affects dopamine signaling, and how quickly mice recover to normal activity levels once they start eating healthfully and losing weight. 
+
+Finally, Kravitz hopes that his research will help to relieve some of the stigma faced by people with obesity. 
+
+"In many cases, willpower is invoked as a way to modify behavior. But if we don't understand the underlying physical basis for that behavior, it is difficult to say that willpower alone can solve it."
+Alexxai V. KravitzLearn how the brain thinks yo-yo dieting is a famine and how this causes weight gain.

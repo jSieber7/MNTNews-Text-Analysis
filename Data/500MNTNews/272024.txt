@@ -1,0 +1,24 @@
+
+A large-scale genetic study has provided strong evidence that the development of insulin resistance - a risk factor for type 2 diabetes and heart attacks and one of the key adverse consequences of obesity - results from the failure to safely store excess fat in the body.
+ 
+Overeating and lack of physical activity worldwide has led to rising levels of obesity and a global epidemic of diseases such as heart disease, stroke and type 2 diabetes. A key process in the development of these diseases is the progressive resistance of the body to the actions of insulin, a hormone that controls the levels of blood sugar. When the body becomes resistant to insulin, levels of blood sugars and lipids rise, increasing the risk of diabetes and heart disease. However, it is not clear in most cases how insulin resistance arises and why some people become resistant, particularly when overweight, while others do not. 
+ 
+An international team led by researchers at the University of Cambridge studied over two million genetic variants in almost 200,000 people to look for links to insulin resistance. In an article published in Nature Genetics, they report 53 regions of the genome associated with insulin resistance and higher risk of diabetes and heart disease; only 10 of these regions have previously been linked to insulin resistance. 
+ 
+The researchers then carried out a follow-up study with over 12,000 participants in the Fenland and EPIC-Norfolk studies, each of whom underwent a body scan that shows fat deposits in different regions of the body. They found that having a greater number of the 53 genetic variants for insulin resistance was associated with having lower amounts of fat under the skin, particularly in the lower half of the body.
+ 
+The team also found a link between having a higher number of the 53 genetic risk variants and a severe form of insulin resistance characterized by loss of fat tissue in the arms and legs, known as familial partial lipodystrophy type 1. Patients with lipodystrophy are unable to adequately develop fat tissue when eating too much, and often develop diabetes and heart disease as a result.
+ 
+In follow-up experiments in mouse cells, the researchers were also able to show that suppression of several of the identified genes (including CCDC92, DNAH10 and L3MBTL3) results in an impaired ability to develop mature fat cells.
+ 
+"Our study provides compelling evidence that a genetically-determined inability to store fat under the skin in the lower half of the body is linked to a higher risk of conditions such as diabetes and heart disease," says Dr Luca Lotta from the Medical Research Council (MRC) Epidemiology Unit at the University of Cambridge. "Our results highlight the important biological role of peripheral fat tissue as a deposit of the surplus of energy due to overeating and lack of physical exercise." 
+ 
+"We've long suspected that problems with fat storage might lead to its accumulation in other organs such as the liver, pancreas and muscles, where it causes insulin resistance and eventually diabetes, but the evidence for this has mostly come from rare forms of human lipodystrophy," adds Professor Sir Stephen O'Rahilly from the MRC Metabolic Diseases Unit and Metabolic Research Laboratories at the University of Cambridge. "Our study suggests that these processes also take place in the general population."
+ 
+Overeating and being physically inactive leads to excess energy, which is stored as fat tissue. This new study suggests that among individuals who have similar levels of eating and physical exercise, those who are less able store the surplus energy as fat in the peripheral body, such as the legs, are at a higher risk of developing insulin resistance, diabetes and cardiovascular disease than those who are able to do so. 
+ 
+"People who carry the genetic risk variants that we've identified store less fat in peripheral areas," says Professor Nick Wareham, also from the MRC Epidemiology Unit. "But this does not mean that they are free from risk of disease, because when their energy intake exceeds expenditure, excess fat is more likely to be stored in unhealthy deposits. The key to avoiding the adverse effects is the maintenance of energy balance by limiting energy intake and maximising expenditure through physical activity."
+ 
+These new findings may lead to future improvements in the way we prevent and treat insulin resistance and its complications. The researchers are now collaborating with other academic as well as industry partners with the aim of finding drugs that may reduce the risk of diabetes and heart attack by targeting the identified pathways.
+ 
+The research was mainly funded by the Medical Research Council, with additional support from the Wellcome Trust.

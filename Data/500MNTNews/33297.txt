@@ -1,0 +1,26 @@
+
+
+
+
+
+A new study reveals how the production of a potent immune regulator called interferon gamma (IFNg) is controlled in natural killer (NK) cells, immune cells that typically defend the body against  cancer  and infections.    
+IFNg, produced by NK cells and other cell types, plays a critical role in killing pathogen-infected cells and in defending against  tumor  cells. However, overproduction of IFNg is also dangerous to the body and can cause autoimmune diseases. But exactly how the body tightly controls IFNg production - and, therefore, NK-cell activity - is not known.    
+The study, published in the May issue of the journal Immunity, looked at substances called pro-inflammatory cytokines, which cause NK cells to make IFNg and stimulate their activity. It also looked at transforming growth factor beta (TGFb), a substance also made by NK cells that lowers IFNg production.    
+The research, by investigators with the Ohio State University Comprehensive Cancer Center - Arthur G. James Cancer Hospital and Richard J. Solove Research Institute, found that the pro-inflammatory cytokines not only cause NK cells to make IFNg, but they also shut down TGFb signaling, which inhibits production of IFNg.    
+That is, the cytokines not only increase some positive regulators of IFNg production, but they also shut down the TGFb signals that inhibit IFNg production.    
+In addition, the scientists found that TGFb turns down IFNg production - and, therefore, NK cell activity - both directly and indirectly.    
+The direct mechanism turns off the IFNg gene itself. The indirectly mechanism blocks a protein that normally turns up IFNg production.    
+\"Our findings provide important details about the fine balance between positive and negative regulators of IFNg production in NK cells,\" says principal investigator Michael A. Caligiuri, director of the OSU Comprehensive Cancer Center. \"Mother Nature uses a symphony of cytokines that result in exquisitely tight control of its production in the healthy state.    
+\"This might help us harness the cancer-killing ability of NK cells to control tumor growth and lead to new treatments that complement current cancer therapy,\" he says.    
+The body carefully regulates IFNg levels. If there is too little of the substance, the risk of infection and cancer rises. If there is too much IFNg, NK cells become too plentiful and autoimmune diseases such as inflammatory bowel disease can occur.    
+\"Our findings explain the yin and yang of the system that controls NK cells,\" says first author Jianhua Yu, a post-doctoral student in Caligiuri\'s laboratory. \"When NK cells are called into action, the body not only turns up the activation pathway, it also shuts down the anti-activation pathway.\"    
+Likewise, when TGFb turns down NK cell activity, it not only turns off the IFNg gene, it also shuts down the pathway that activates the gene.    
+\"In each instance, these regulatory cytokines deliver a double whammy,\" Caligiuri says. \"They turn on what is needed and turn off anything that interferes with it.\"    
+
+
+
+Funding from the National Cancer Institute supported this research.    
+Darrell E. Ward  
+Darrell.Ward@osumc.edu   
+Ohio State University   
+ http://researchnews.osu.edu/ 

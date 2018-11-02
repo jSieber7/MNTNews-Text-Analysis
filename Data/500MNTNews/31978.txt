@@ -1,0 +1,37 @@
+
+
+
+
+
+A novel vaccine has significantly increased life expectancy in patients with glioblastoma multiforme (GBM), the most dangerous type of brain  tumor , a researcher from The University of Texas M. D. Anderson Cancer Center is reporting at the annual meeting of the American Association of Neurological Surgeons (AANS).
+   
+Median survival for the 23 patients tested at M. D. Anderson and at Duke University Medical Center is at least 19 months, and only four patients have died from the  cancer , says Amy Heimberger, M.D., an assistant professor of Neurosurgery at M. D. Anderson. That figure surpasses the median survival of 14 months for patients with GBM who are treated with the most current  chemotherapy  and radiation, and the 4-month median survival for untreated patients, she says.
+   
+"We can't say this vaccine is better than chemotherapy because we haven't tested the two treatments head-to-head yet," she says. "However, so far, results have exceeded the expectations we had for this vaccine."
+   
+Heimberger's study was chosen by AANS for a Young Investigator's Award, and is being cited as one of the conference's most important findings.
+   
+The trial is now closed at both institutions. Given its statistically significant findings, a pharmaceutical company has acquired the rights to the drug and a larger, multi-institutional, randomized study is being planned, Heimberger says.
+   
+She describes the vaccine as an easy to use "off-the-shelf" treatment that can potentially help up to 50 percent of all GBM patients keep their cancer at bay for a period of time. Interim results of the Phase II clinical trial show that the vaccine significantly delays progression of tumors until the cancer finds a new growth pathway.
+   
+"This is a proof of concept, and optimal use of the vaccine may be with chemotherapy to further retard progression," says Heimberger. "Still, this is exciting to us because people have been trying to use immunotherapy against gliomas for a long time."
+   
+Heimberger and a team of researchers designed the vaccine to alert the brain's immune system to the presence of just one type of protein that studs the outside of a glioma tumor. This protein, epidermal growth factor variant III (EGFRvIII), is found on 30 percent to 50 percent of brain tumors, as well as on some breast and non-small-cell  lung cancers , but not on normal tissue. Heimberger believes EGFRvIII drives gliomas to spread, which could explain why these brain tumors are unusually dangerous and invasive.
+   
+The vaccine contains a synthesized piece of EGFRvIII and compounds that stimulate immune system dendritic cells, which then activate the immune system in general and cytotoxic CD8 cells in particular. "It tricks the body into thinking that EGFRvIII is foreign, and the CD8 cells are sent in to kill the tumor," Heimberger says.
+   
+After initial therapy - three injections over a two-week period - patients in the clinical trial receive a monthly booster shot designed to keep the immune system activated against EGFRvIII-bearing cells. "Some patients have had booster shots for more than two years," she says. "We have found that the vaccine activates both the B- and T-cell arms of the immune system, and the vaccine is acting both as a therapy and as a preventive treatment."
+   
+When tumors began to grow again in the patients involved in the study, none of them displayed the protein. "We believe that this means the vaccine did its job," Heimberger says.
+   
+This easily manufactured and administered vaccine differs greatly from previous attempts to vaccinate patients against brain tumors, she adds, because those strategies required harvesting cells from each patient, growing them in the laboratory while manipulating them to express a certain protein, and then infusing them back into patients. "All we do for this vaccine is make sure the patient's tumor expresses EGFRvIII," Heimberger says. "The same vaccine is used for all patients who have such a tumor."
+   
+Heimberger expects that median survival rates will continue to increase over time.
+   
+###
+   
+The study was sponsored by the National Institutes of Health, the Commonwealth Cancer Foundation for Research and the Adam Slinger Foundation. Study collaborators include John H. Sampson. M.D., Ph.D., of Duke University Medical Center. 
+   
+Contact: Laura Sussman  
+ University of Texas M. D. Anderson Cancer Center  

@@ -1,0 +1,34 @@
+
+For optimal health and well-being, the American Academy of Sleep Medicine recommend adults aged 18-60 years get at least 7 hours of sleep every night.
+
+However, earlier this year, a report from the Centers for Disease Control and Prevention (CDC) revealed that more than a third of adults in the United States are not meeting these recommendations.
+
+Lack of sleep has been linked to increased risk of numerous health problems, including high blood pressure, stroke, heart disease, obesity, and type 2 diabetes.
+
+Previous research has also associated changes in gut microbiota - the community of microorganisms that reside in the digestive tract - with obesity and type 2 diabetes. Whether sleep loss plays a role in this relationship, however, has been unclear.
+
+According to the researchers of the new study - including first author Christian Benedict of the Department of Neuroscience at Uppsala University in Sweden - some studies in mice and humans have suggested that gut bacteria have a circadian rhythm that might be disrupted by sleep loss.
+
+"However, to date, there are no studies that have investigated the impact of insufficient sleep on the composition of the human gut microbiota," they add.
+
+"Studies are therefore lacking that assess whether important adverse metabolic changes that may increase the risk of [type 2 diabetes] and obesity, such as impaired insulin sensitivity, are associated with changes in the gut microbiome and associated SCFAs [short chain fatty acids] that could result from recurrent sleep loss."
+
+To find out more about the link between sleep loss, gut microbiota, and metabolic changes, Benedict and team enrolled nine healthy, normal-weight males to their study.
+
+The researchers analyzed fecal samples from the men after two sleep conditions: 1 day of normal sleep (around 8 hours) and 2 days of restricted sleep (around 4 hours each night).
+
+Meal times and food intake can affect the composition of gut bacteria, so these were kept consistent across both sleep conditions.
+
+While the team found no evidence that sleep loss alters the diversity of gut bacteria, their analysis did identify changes in microbiota - such as an increase in the ratio of Firmicutes to Bacteriodetes - that previous studies have associated with obesity.
+
+Additionally, the researchers found that following sleep restriction, subjects showed a 20 percent reduction in sensitivity to insulin - the hormone that regulates blood glucose levels.
+
+"This decreased insulin sensitivity was however unrelated to alterations in gut microbiota following sleep loss," says Benedict. "This suggests that changes in microbiota may not, at least in the short-term, represent a central mechanism through which one or several nights of curtailed sleep reduce insulin sensitivity in humans."
+
+While these findings suggest sleep loss can trigger changes in gut bacteria, the researchers say further investigation is warranted to better understand whether these changes influence metabolic health.
+
+The authors add:
+"Given our small sample size that only involved healthy young men, larger and more long-term studies are required to investigate to what extent these findings persist over longer time periods and whether these are observed in females, older or diseased patients and in other sleep restriction paradigms. 
+
+Nevertheless, our study is the first to provide evidence for sleep deprivation-induced changes in microbial families of bacterial gut species, which have previously been linked to metabolic pathologies."
+Learn how gut bacteria may influence weight during childhood and adolescence.

@@ -1,0 +1,28 @@
+
+
+
+
+
+Studying mice with  skin cancer , researchers at the Swiss Institute for Experimental Cancer Research (ISREC) and EPFL (Ecole Polytechnique Federale de Lausanne) have identified a three-way signaling pathway directly involved in  tumor  development. Their research, published in the August, 2006 issue of Genes and Development, pins down a process that could potentially be manipulated to inhibit the growth of existing carcinomas.
+   
+Genetic mutations in our cells accumulate as we age, and carcinomas are associated with alterations in certain key genes, known as tumor suppressor genes and oncogenes. The overexpression of oncogenes disrupts complex cellular signaling pathways and leads to tumor development. However, most oncogenes also play a variety of essential roles in the normal function of a cell. It is extremely difficult to pinpoint the interplay of genetic and cellular events that goes awry when a cell becomes cancerous.
+   
+To better understand the intertwined roles of three genes known to be implicated in skin cancer, Professor Andreas Trumpp and PhD student Thordur Oskarsson studied mice that carried a mutated form of one of them, the oncogene Ras. They then genetically engineered mice whose skin cells also lacked another oncogene, c-myc. The c-myc gene is known to be a master regulator in the cell, responsible for controlling several hundred other genes.
+   
+Their first surprise was that the mice without the c-myc gene in their skin cells didn't suffer any adverse effects. Unexpectedly, epidermal cells do not require c-myc for survival, normal differentiation or cellular division. However, even more surprising was that these same mice were completely resistant to developing skin cancer, even though they carried the mutated Ras gene, known to drive tumor development. As expected, mice in the control group carrying a normal copy of the c-myc gene developed  cancer .
+   
+A piece of the puzzle was clearly missing. The researchers found this in a tumor-suppressing gene known as p21. Mutated Ras drastically increases the level of p21 in the cell, and in this way the tumor-causing effects of Ras are held in check, because p21 inhibits uncontrolled proliferation. However, mutated Ras is a vicious oncogene and has found a way to remove the tumor-suppressing effect of p21. It does this by simultaneously driving increased c-myc activity, which in turn eliminates p21. Thus, epidermis with mutated Ras but no c-myc cannot form tumors as p21 remains highly expressed. Trumpp and his colleagues proved the newly uncovered relationship of this cancer threesome by engineering mice lacking both the c-myc and the p21 genes. As predicted, these mice became sensitive to mutated Ras again and developed extensive skin tumors.
+   
+"This work is in vivo proof-of-concept of a key pathway in epithelial tumors," remarks Trumpp. "The gene that is truly critical and protects the cells from oncogenic activity is p21. Inhibiting the c-myc pathway was always thought to be unreasonable because this gene is thought to be implicated in so many cellular functions. However, this might prove to be promising avenue for treating existing carcinomas, because it would only affect tumors and not normal skin cells."
+   
+###
+   
+Additional Information
+   
+Mary Parlange, EPFL Media and communications Office, +41 21 693 7022, mary.parlange@epfl.ch
+   
+Article: "Skin epidermis lacking the c-myc gene is resistant to Ras driven tumorigenesis but can re-acquire sensitivity upon additional loss of the p21 gene.", T. Oskarsson et al, Genes and Development, August 1 2006
+   
+
+Contact: Andreas Trumpp  
+ Ecole Polytechnique F?d?rale de Lausanne  

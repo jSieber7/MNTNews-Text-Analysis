@@ -1,0 +1,46 @@
+
+
+
+
+
+Tumor characteristics may help predict survival in  breast cancer  patients, say researchers from Wake Forest University Baptist Medical Center   
+
+WINSTON-SALEM, N.C. (USA) - An 11-year study of breast cancer patients who had tumors removed but had no evidence of  cancer  in their lymph nodes has confirmed that certain factors may predict cancer recurrence - and help physicians decide who should get additional treatment .   
+The research, from Wake Forest University Baptist Medical Center, is reported in the April issue of Clinical Cytometry.    'Despite years of research, it is still unclear which women with node-negative breast cancer will need  chemotherapy  and which women are cured by the surgery and do not need any additional chemotherapy,' said Timothy Kute, Ph.D., associate professor of pathology and cancer biology.    'Our study adds to the evidence that there are predictive factors that can help women avoid unnecessary treatment.' 
+   
+In one of the first studies to follow a large group of breast cancer patients after diagnosis, the researchers examined tumors of 556 patients diagnosed between 1991 and 1996.    They followed the patients until 2002 - to allow time to detect recurrence and cancer deaths - using information from area hospital cancer registries. The patients were followed for a median of 7.8 years. 
+   
+Kute and colleagues analyzed 12 different characteristics of the  tumor  tissue. The factor most predictive of an early recurrence rate was high S-phase fraction (SPF), or how rapidly cancer cells divide.    The factor most predictive of a later recurrence was diploid status, which refers to cells having normal amounts of DNA, or the carrier of genetic information. Patients whose tumors were diagnosed at an older age had later recurrences compared to younger patients. 
+   
+Predictors of an earlier death were: 
+   
+
+High SPF and larger tumor size 
+   
+A high concentration of cathepsin D, an enzyme that degrades tissue and allows for spread of disease 
+   
+Higher histologic grade, which is determined by a pathology examination. Tumors with a higher grade have cells that aren't normal-looking and tend to grow and spread more aggressively.
+Previous research from other institutions also pointed to the importance of SPF; and a National Institutes of Health consensus conference proposed it as a potential marker. 
+   
+'This is one of the few studies to follow breast cancer patients knowing their prognostic factors,' said Gretchen Kimmick, M.D., an oncologist at Wake Forest Baptist. 'It confirms what we had suspected about predictors of recurrence and gives us an added level of confidence in making treatment recommendations.' 
+   
+A secondary - but surprising - finding of the research was that patients who received adjuvant chemotherapy after surgery did worse than patients who were not treated. Adjuvant chemotherapy is the use of drugs as additional treatment after surgery for patients with cancers that may have spread outside their original sites. 
+   
+In particular, 23 percent, or 37 out of 161 patients treated with adjuvant chemotherapy had a recurrence of cancer within five years. For those patients who were not treated with chemotherapy, the recurrence rate was 9 percent, or 35 out of 395 patients.    
+
+Twenty percent of the treated patients died within five years, compared to 7.6 percent of the non-treated patients. Previous research studies in patients whose breast cancer had not spread to the lymph nodes showed that adjuvant chemotherapy improves clinical outcomes.    
+
+In those studies, there were two identical groups of patients - one group received adjuvant chemotherapy and one group didn't. Both groups had similar prognostic factors. In the current study, however, doctors recommended treatment based on patients' prognostic indicators. 
+   
+'Our explanation for these contradictory survival results is that physicians ordered adjuvant chemotherapy for those patients that they believed were at highest risk of recurrence based on their best knowledge about prognostic factors,' Kute said.    
+
+'Interestingly, the patients who were treated had the predictive factors for early recurrence and death that were confirmed in our study. So it's not surprising that they did worse than patients without chemotherapy. Those same patients likely would have done worse anyway.' 
+   
+Kute said the researchers do not believe that cancer patients or their physicians should take the results to mean that chemotherapy is not useful in treatment of node-negative breast cancer. He said the results point to the need for more effective chemotherapy for that subset of patients with poor prognostic indicators. 
+   
+Media Contact: Karen Richardson (krchrdsn@wfubmc.edu) or Shannon Koontz   (shkoontz@wfubmc.edu) at 336-716-4587.    
+
+Contact: Karen Richardson or Bob Conn  
+krchrdsn@wfubmc.edu  
+336-716-4587  
+Wake Forest University Baptist Medical Center 

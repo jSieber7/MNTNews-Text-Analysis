@@ -1,0 +1,30 @@
+
+New research detailing these findings was published in JAMA.
+
+Body mass index (BMI) is used to measure body fat based on height and weight, and it is a common method of working out whether a person is overweight or obese. Obesity is a major risk factor for both type 2 diabetes and coronary heart disease. 
+
+Regardless of BMI, body fat distribution can vary from one person to the next. Some people carry more fat around their visceral organs, called abdominal adiposity (fat), while others carry fat on their thighs and hips.
+
+Previous observational studies have indicated that abdominal fat is associated with type 2 diabetes and coronary heart disease. However, it remains unclear whether these associations represent a causal relationship.
+
+Dr. Sekar Kathiresan, of Massachusetts General Hospital in Boston, and colleagues conducted a study to investigate whether being genetically inclined to have an increased waist-to-hip ratio (WHR) adjusted for BMI (a measure of abdominal fat) was linked to cardiometabolic traits (such as lipids, glucose, insulin, and systolic blood pressure), and type 2 diabetes and coronary heart disease.
+
+The team gathered data from four genome-wide association studies conducted between 2007 and 2015, which included up to 322,154 participants, and individual-level, cross-sectional data from the UK Biobank collected between 2007 and 2011, which included data from a further 111,986 people. Estimates for cardiometabolic traits were based on this combined data set.
+
+Analysis did show that being genetically predisposed to a higher WHR adjusted for BMI was connected with increased levels of quantitative risk factors, including lipids, glucose, insulin, and systolic blood pressure, and a greater risk of developing type 2 diabetes and coronary heart disease.
+
+Kathiresan and co-authors say that the results permit several conclusions. Firstly, the findings agree with previous studies that associate abdominal fat with cardiometabolic disease. 
+
+Secondly, the findings suggest that the distribution of body fat, beyond BMI measurement, could partly explain the disparity in risk of type 2 diabetes and coronary heart disease that is reported in both individuals and subpopulations.
+
+"For example, increased abdominal adiposity at a given BMI has been proposed as an explanation for the excess risk of coronary heart disease observed in South Asians," the authors explain. "Similarly, greater abdominal adipose tissue at a given BMI has been proposed to underlie the excess risk of coronary heart disease at a given BMI among men compared with women," they add.
+
+Lastly, WHR adjusted for BMI may lead to novel therapeutic strategies for the reduction of abdominal fat and decreasing the risk of type 2 diabetes and coronary heart disease. 
+
+"Although a substantial focus of drug development has been toward therapeutics to reduce overall adiposity, there has been little effort toward the development of therapies that modify body fat distribution to reduce abdominal adiposity," say the authors. Kathiresan and team conclude:
+
+"These results provide evidence supportive of a causal association between abdominal adiposity and the development of type 2 diabetes and coronary heart disease."
+
+Limitations of the study include the fact that there is a small chance that the findings from the study represent a "shared genetic basis" between WHR adjusted for BMI and coronary heart disease, instead of a causal relationship.
+
+Learn how obesity may lead to heart attacks and stroke.

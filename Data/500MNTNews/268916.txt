@@ -1,0 +1,14 @@
+
+Researchers at Queen's University Belfast and University College London have discovered that a drug, originally developed to treat cardiovascular disease, has the potential to reduce diabetes related blindness.
+
+According to recent WHO global estimates, 422 million people have diabetes. One of the most common complications of this disease is vision loss.  Diabetic Macular Oedema occurs in approximately 7 per cent of patients with diabetes and is one of the most common causes of blindness in the Western World. In the UK, this sight-threatening complication of diabetic retinopathy is associated with estimated health and social care costs of £116 million. The socio-economic burden will only increase with prevalence of diabetes rising by more than 50 per cent by 2030. 
+
+Queen's and UCL researchers, in partnership with  GlaxoSmithKline, found that the drug Darapladib inhibits an enzyme which is increased in people with diabetes and causes blood vessel leakage in the eye which leads to swelling of the retina and severe vision loss.
+
+Currently, the most common treatments for patients with Diabetic Macular Oedema is an injection of a drug directly into to the eye every 4-6 weeks.  This therapy is very expensive and not effective for about half of all patients with Diabetic Macular Oedema. 
+
+The discovery by the Queen's and UCL teams demonstrates that Darapladib in form of a tablet has potential to reduce the need for monthly injections and provide protection against vision loss in a much wider group of patients with diabetes.
+
+Speaking about the breakthrough, Professor Alan Stitt, from the Centre for Experimental Medicine at Queen's University, said: "Diabetes-related blindness is caused by high blood sugar levels damaging the blood vessels in the retina.  We have found that an enzyme called Lp-PLA2 which metabolises fats in the blood contributes to blood vessel damage and leakiness in the retina. The drug Darapladib acts as inhibitor of Lp-PLA2, and was originally developed for cardiovascular disease. Based on our break-though we are now planning a clinical trial and if successful we could soon see an alternative, pain-free and cost effective treatment for diabetic related blindness."
+
+Dr Patric Turowski from the UCL Institute of Ophthalmology said: "With our study we show that a blood lipid produced by Lp-PLA2 constitutes a novel trigger factor in diabetic macular oedema and that use of Darapladib may not only constitute an cost-effective alternative to current DMO treatments but has the potential to be effective for patients that currently do not respond to standard treatment."

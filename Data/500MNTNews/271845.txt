@@ -1,0 +1,34 @@
+
+In a new pilot study, researchers from Imperial College London in the United Kingdom reveal how phenylalanine - an amino acid produced by the digestion of protein - boosts levels of a hormone that tells us when we are full, leading to reduced food intake.
+
+Lead author Mariana Norton will present the findings at this week's Society for Endocrinology annual meeting in the U.K.
+
+Previous studies have shown that a diet high in protein - essential nutrients found in foods such as milk, fish, eggs, and poultry - can help reduce body weight by suppressing appetite.
+
+According to Norton and her team, a high-protein diet can be hard to adhere to, but uncovering the mechanisms by which protein curbs hunger could lead to simpler weight-loss strategies.
+
+For their study, the researchers conducted a series of experiments on rodents, which involved testing the effects of phenylalanine.
+
+Phenylalanine is an amino acid produced in the gut after consumption of foods rich in protein.
+
+Firstly, the team gave 10 mice and rats a single dose of phenylalanine and compared them with rodents that were not given the enzyme. 
+
+The researchers found that mice and rats given phenylalanine showed increased levels of the hormone GLP-1, which suppresses appetite, but reduced levels of the hormone ghrelin, which increases hunger.
+
+Additionally, the researchers found that phenylalanine reduced the rodents' food intake and increased weight loss. Rats that received the amino acid also moved around more, which the team notes may have contributed to their weight loss.
+
+Next, the team administered regular doses of phenylalanine to mice with diet-induced obesity over a 7-day period.
+
+Compared with mice that were not treated with phenylalanine, those that received the amino acid showed a reduction in weight, the researchers report.
+
+In a final experiment, the researchers sought to gain a better understanding of the mechanisms by which phenylalanine affects levels of GLP-1 and ghrelin.
+
+On applying phenylalanine to gut cells in a petri dish, the team found that the amino acid targets a receptor called the calcium-sensing receptor (CaSR), and it is this receptor that increases GLP-1 levels and lowers levels of ghrelin.
+
+Obesity has become a major public health concern in the United States; around 2 in 3 adults and 1 in 6 children and adolescents are considered obese, putting them at greater risk of health conditions such as diabetes, heart disease, and some types of cancer.
+
+According to Norton and her team, their findings may fuel much-needed new strategies to tackle the obesity epidemic.
+"Our work is the first to demonstrate that activating CaSR can suppress appetite. It highlights the potential use of phenylalanine or other molecules which stimulate CaSR - like drugs or food components - to prevent or treat obesity."Mariana Norton
+The researchers note that further studies are needed to pinpoint the exact mechanisms by which phenylalanine can curb hunger and aid weight loss, and future research should assess whether the amino acid poses the same appetite-suppressing effects in humans as in rodents.
+
+Read how a week's overeating could be counteracted by exercise.

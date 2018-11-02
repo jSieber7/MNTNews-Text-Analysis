@@ -1,0 +1,16 @@
+
+Even if you are not overweight, your mannose levels may indicate whether you're at risk for type 2 diabetes (T2D) or insulin resistance (IR), a Swedish study shows.
+
+Mannose, a simple sugar that occurs as a component of many natural polysaccharides, has been identified as a biomarker for diabetes, says Adil Mardinoglu, a systems biologist at KTH Royal Institute of Technology in Stockholm and a fellow at SciLifeLab. The report was published June 24 in Cell Metabolism.
+
+"We can measure mannose in the blood of lean or obese people and identify if they have increased risk for type 2 diabetes based on their mannose levels," Mardinoglu says.
+
+The researchers found that subjects with high mannose levels have a higher risk for T2D. Lead author Sunjae Lee, a researcher with SciLifeLab at KTH, says that mannose can be used as a biomarker since blood mannose levels are quite stable and not influenced by recent food intake, unlike glucose levels.
+
+The study forces us to reconsider assumptions about the relationship between obesity and diabetes. "Although the prevalence of obesity and type 2 diabetes continues to dramatically increase worldwide, a clear understanding of the underlying molecular mechanisms involved in the progression of associated disorders has still been lacking," Lee says. "So it is important to identify stable biomarkers that can be used for the early discovery of IR and future risk of T2D."
+
+Lee says the researchers used a systems biology-based approach and generated cell-specific integrated networks for liver, fat and muscle tissues.
+
+They used these biological networks for analysis of clinical data to explain biological changes in response to obesity and IR, which provided comprehensive molecular clues. 
+
+"Based on our integrative analysis, we think that this knowledge can be useful in the clinic for detecting subjects at high risk for T2D," Lee says. "However, larger studies are required for further clinical validation of our results."

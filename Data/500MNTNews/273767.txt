@@ -1,0 +1,38 @@
+
+Acute respiratory tract infections are responsible for 10 percent of ambulance and emergency room visits in the United States.
+
+Including anything from the common cold to pneumonia and bronchitis, they were the cause of an estimated 2.65 million deaths globally in 2013.
+
+Respiratory tract infections have a wide array of risk factors, including overcrowding, a damp living environment, air pollution, and parental smoking. 
+
+A number of observational studies have also reported a nutritional risk factor - vitamin D deficiency. Some researchers have concluded that vitamin D has the ability to trigger an immune response to certain viruses and bacteria.
+
+However, the links between respiratory tract infections and vitamin D supplementation have remained controversial; some studies support the theory while others are inconclusive. To date, five meta-analyses have been conducted on existing data. Two of these reported significant positive effects, and three found no significant effect.
+
+In an attempt to put this question to bed, the largest meta-analysis to date was published this week in the BMJ. 
+
+The analysis, carried out by an international group of researchers, is the first to use individual participant data (IPD), rather than the aggregate methodology that was used in earlier meta-analyses. In this way, changes measured at different points in time within each participant of each trial can be accounted for, rather than taking a summary (aggregate) of the data. IPD is considered the "gold standard" of systematic review.
+
+The team used data from 25 randomized controlled trials investigating vitamin D supplementation. In total, data from 11,321 participants were analyzed.
+
+After adjusting for potentially confounding variables, such as sex, age, and study duration, they found that vitamin D supplementation produced a 12 percent reduction in the proportion of individuals experiencing at least one acute respiratory tract infection. 
+
+In simple terms, if 33 people took vitamin D supplements, one acute respiratory tract infection would be prevented. If these results are confirmed, vitamin D supplementation could potentially prevent millions of respiratory infections each year.
+
+When the team drilled further into the data, they found that the positive effect was more pronounced in participants who took daily or weekly vitamin D without additional large doses. The effect was also stronger for individuals with more severe vitamin D deficiencies - only 1 in 4 people in this group would need to take vitamin D regularly to prevent one acute respiratory tract infection.
+
+The authors concluded that:
+"Our results add to the body of evidence supporting the introduction of public health measures such as food fortification to improve vitamin D status, particularly in settings where profound vitamin D deficiency is common."
+The team also concluded that vitamin D was safe to consume as a supplement; side effects were rare.
+
+Although the thorough statistical methodology and large group of participants give the findings a degree of strength, there are limitations and some researchers remain unconvinced of the effect. 
+
+In an editorial published in the same journal, Mark Bolland from the University of Auckland in New Zealand and Alison Avenell from the University of Aberdeen in the United Kingdom, write that the results are "heterogeneous and not sufficiently applicable to the general population. We think that they should be viewed as hypothesis-generating only, requiring confirmation in well-designed adequately powered randomized controlled trials."
+
+The editorial also states that: 
+
+"Current evidence does not support the use of vitamin D supplementation to prevent disease, except for those at high risk of osteomalacia (weak bones and muscles due to low blood vitamin D levels, currently defined as less than 25 nanomoles per liter)."
+
+Although the jury remains out, the recent findings have added fuel to the fire. If further trials back up the hypothesis, vitamin D supplementation could provide a cost-effective way of reducing the number of acute respiratory infections on a global basis.
+
+Learn why cancer risk falls with increased levels of vitamin D.

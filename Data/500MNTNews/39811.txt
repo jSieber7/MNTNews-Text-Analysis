@@ -1,0 +1,23 @@
+
+
+
+
+
+Individuals who have sleep-related breathing disorder appear significantly more likely to develop  depression , with odds of depression increasing as breathing disorders becomes more severe, according to a study in the September 18 issue of  Archives of Internal Medicine , a theme issue on sleep.
+   
+Frequent pauses in breathing, labored breathing or reduced breathing during the night are hallmark signs of sleep-related breathing disorder, according to background information in the article. The disorder has been linked to a variety of negative health consequences, including cardiovascular disease and difficulty functioning during the day. Previous studies have suggested that depression improves when sleep-related breathing disorder is treated, indicating that these two common conditions are related. Characterizing the relationship, the authors write, could "guide screening for depressive symptoms in patient populations with sleep-related breathing disorder, suggest strategies for managing sleep-related breathing disorder-related depression and alert clinicians about the possibility of untreated depression complicating adherence to sleep-related breathing disorder mitigation strategies and treatments ...."
+   
+Paul E. Peppard, Ph.D., and colleagues at the University of Wisconsin-Madison evaluated 1,408 adults (788 men, 620 women) who were between the ages of 30 and 60 at the beginning of the study, in 1988. The participants stayed overnight in a laboratory once every four years, during which time sleep was monitored with a test known as polysomnography and breathing disturbances were recorded. By May 2005, 449 participants had completed one sleep study, 382 completed two, 319 completed three and 258 completed four, for a total of 3,202 sleep studies. At each sleep study, body mass index was recorded and interviews and questionnaires completed by participants provided information about medical history, lifestyle habits, demographics and whether they had difficulty sleeping at night ( insomnia ) or felt sleepy during the day.
+   
+During the 3,202 sleep studies, 334 showed no evidence of reduced or paused breathing. Among cases of sleep-related breathing disorder, 1,911 were categorized as minimal, defined as an average of fewer than five incidences of reduced or paused breathing per hour; 606 were mild, with an average of five to 14 such events per hour; and 351 were moderate or worse, with 15 or more events per hour. About twice as many men as women had mild, moderate or worse sleep-related breathing disorder--14 percent of sleep studies among men revealed moderate sleep-related breathing disorder, vs. 6 percent of women. Throughout the study, there were 649 cases of mild depression and 392 of moderate or more severe depression. Women were about twice as likely to be depressed as men (27 percent vs. 15 percent).
+   
+Compared with patients without sleep-related breathing disorder, those with minimal cases of the condition were 1.6 times as likely to be depressed; those with mild cases, twice as likely; and those with moderate or worse, 2.6 times as likely. Individuals whose breathing problems worsened over time increased their risk for depression. "Among these studies, an increase in sleep-related breathing disorder to the next higher category (for instance, from no sleep-related breathing disorder to minimal sleep-related breathing disorder) was associated with a 1.8-fold increased odds for development of depression compared with unchanging sleep-related breathing disorder," the authors write. "For example, persons initially without sleep-related breathing disorder but in whom minimal sleep-related breathing disorder developed during a four-year period are estimated to be at 80 percent greater odds for development of depression than those who remain without sleep-related breathing disorder."
+   
+"Our longitudinal findings of a dose-response association between sleep-related breathing disorder and depression provide evidence consistent with a causal link between these conditions and should heighten clinical suspicion of depression in those with sleep-related breathing disorder," they conclude.
+   
+###
+   
+This study was supported by grants from the National Institutes of Health. Please see the article for additional information, including other authors, author contributions and affiliations, financial disclosures, funding and support, etc. 
+   
+Contact: Aaron Conklin  
+ JAMA and Archives Journals  

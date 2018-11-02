@@ -1,0 +1,30 @@
+
+Georgetown Lombardi Comprehensive Cancer Center researchers have used animal models to reveal new information about the impact - positive and negative - that soy consumption could have on a common breast cancer treatment.
+
+The scientists have uncovered the biological pathways in rats by which longtime soy consumption improves effectiveness of tamoxifen and reduces breast cancer recurrence. But they also show why eating or drinking soy-based foods for the first time while being treated with tamoxifen can, conversely, reduce effectiveness of the drug, and promote recurrence.
+
+The study, published in Clinical Cancer Research, uncovers the molecular biology behind how soy consumption, especially its most active isoflavone, genistein, affects tamoxifen - both positively and negatively.
+
+It also mirrors what has been observed in breast cancer patients, says the study's senior investigator Leena Hilakivi-Clarke, PhD, professor of oncology at Georgetown Lombardi.
+
+"There has long been a paradox concerning genistein, which has the similar structure as estrogen and activates both human estrogen receptors to a degree. Estrogen drives most breast cancer growth, yet high soy intake among women in Asian countries has been linked to a breast cancer rate that is five times lower than Western women, who eat much less soy," she says. "So why is soy, which mimics estrogen, protective in Asian women?"
+
+More than 70 percent of the 1.67 million women diagnosed with breast cancer worldwide in 2012 was estrogen-receptor positive, and tamoxifen and other endocrine therapies meant to reduce the ability of estrogen to promote cancer growth, are the most common drugs used for these cancers. Although endocrine therapies can be highly effective in preventing or treating breast cancer, about half of patients who use them exhibit resistance and/or have cancer recurrence.
+
+Employing a more advanced rat model of breast cancer and tamoxifen use than has been used in past studies, the researchers found that the timing of genistein intake is the central issue.
+
+Longtime sustained use of genistein before development of breast cancer improves overall immunity against cancer, thus protecting against cancer development and recurrence, says the study's lead researcher, Xiyuan Zhang, PhD.
+
+"It also inhibits a mechanism called autophagy that would allow cancer cells to survive, which explains why it helps tamoxifen work," says Zhang, a member of Hilakivi-Clarke's laboratory when this study was conducted. She is currently a postdoctoral researcher at the National Institutes of Health.
+
+Previous studies in women show no evidence of adverse effects of soy intake on breast cancer outcome, the researchers say, adding that research has also shown that Asian and Caucasian women who consumed as little as 1/3rd cup of soymilk daily (10 mg. of isoflavones) had the lowest risk of breast cancer recurrence.
+
+The animal studies suggest it is a different story when soy consumption begins after breast cancer develops.
+
+Starting consuming genistein in a diet after breast cancer develops in the animals did not trigger anti-tumor immune response to eliminate cancer cells, Zhang says. "We do not know yet why this made the animals resistant to the beneficial effects of tamoxifen and increased risk of cancer recurrence," she continued.
+
+Animals consuming genistein as adults on had a 7 percent chance of breast cancer recurrence after tamoxifen treatment, compared with a 33 percent recurrence with rats exposed to genistein only after breast cancer developed.
+
+"We have solved the puzzle of genistein and breast cancer in our rat model, which perfectly explains the paradox seen in earlier animal studies and patients," says Hilakivi-Clarke. "While many oncologists advise their patients not to take isoflavone supplements or consume soy foods, our findings suggest a more nuanced message - if these results hold true for women. Our results suggest that breast cancer patients should continue consuming soy foods after diagnosis, but not to start them if they have not consumed genistein previously."
+
+This work was supported by NIH grants (U54-CA149147, U01-CA184902, and R01-CA164384), and an AICR grant. In addition, X. Zhang received a donation to support her PhD thesis work from Solomon family.

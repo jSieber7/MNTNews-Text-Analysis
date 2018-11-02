@@ -1,0 +1,33 @@
+
+Although the number of people being diagnosed with HIV has fallen dramatically in the past decade, HIV still affects more than 1.2 million U.S. individuals, and 1 in 8 of those who have the virus are not aware of their infection. 
+
+Diabetes is also a serious health concern in the country. The condition affects more than 29 million people in the U.S., and another 86 million have prediabetes, according to the Centers for Disease Control and Prevention (CDC). 
+
+New research links the two conditions, suggesting that adults with HIV are predisposed to developing diabetes. The list of currently known risk factors for diabetes includes obesity and a lack of physical activity, being 45 years old or above, having a family history of the disease, or having gestational diabetes.  
+
+New research, however - published in the journal BMJ Open Diabetes Research & Care - suggests that the list may have to be amended to include HIV infection. As the authors of the new study point out, previous research has in fact associated HIV with diabetes, but the link has been widely contested in the medical community. 
+
+Therefore, researchers - led by Dr. Alfonso Hernandez-Romieu from the Department of Epidemiology at Emory University in Atlanta, GA - set out to calculate the prevalence of diabetes among people living with HIV and compare it with that of the general U.S. population. 
+
+To do this, they used data from the Medical Monitoring Project (MMP) - which contained nationally representative clinical and behavioral information on 8,610 adults with HIV - and from the National Health and Nutrition Examination Survey (NHANES), which comprised 5,604 adults from the general population. 
+
+Dr. Hernandez-Romieu and team used regression models to compare the prevalence of diabetes in the two groups, as well as to examine the risk factors commonly associated with diabetes among adults with HIV. 
+
+Individuals in the HIV group were predominantly male (over 73 percent) and black non-Hispanic (over 41 percent). They were at least 45 years old, had attended higher education, and they lived above the federal poverty line. Around a quarter of them had a body mass index (BMI) of 30 kilograms per square meter or higher. According to the CDC, this means that 1 in 4 of the HIV participants were clinically obese.
+
+Additionally, around 1 in 5 adults in the HIV group also had a hepatitis C infection.
+
+In the general population group, almost half of the participants were male, and over 11 percent were non-Hispanic black. Over half of them were 45 years old and above, and almost 60 percent had higher education. Less than 2 percent were infected with hepatitis C.
+
+Diabetes was found in 10.3 percent of those diagnosed with HIV and receiving medical care, compared with 8.3 percent in the general population. 
+
+In the HIV-positive group, older age, obesity, and CD4 T lymphocytes count - which is an indicator of immune health - all associated with a higher diabetes risk.  
+
+However, when researchers adjusted for all of these variables - together with sex, ethnicity, education, poverty, and hepatitis C infection -  the diabetes risk was still significantly higher among the adults with HIV than in the general population. 
+
+Specifically, 1 in 10 adults with HIV had diabetes, half of whom had type 2 diabetes. Overall, after adjusting for all the variables, the diabetes prevalence was 3.8 percent higher among HIV-infected individuals than in the general population. 
+
+The authors caution that their study is purely observational, so they cannot draw any conclusions regarding cause and effect. 
+
+They also add that given the high efficacy of modern HIV treatment, individuals that are HIV-positive live well into old age, when they become vulnerable to serious illnesses - including diabetes. Dr. Alfonso C. Hernandez-Romieu and colleagues conclude: 
+ "Although obesity is a risk factor for prevalent [diabetes] among HIV infected adults, when compared with the general U.S. adult population, [these] adults may have higher [diabetes] prevalence at younger ages, and in the absence of obesity [...] Additional research would help to determine whether [diabetes] screening guidelines should be modified to include HIV infection as a risk factor for [the condition], and to identify optimal management strategies in this population." Learn how HIV vaccines step closer with new insights into broadly neutralizing antibodies.

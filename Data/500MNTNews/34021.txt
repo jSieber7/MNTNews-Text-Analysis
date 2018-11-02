@@ -1,0 +1,121 @@
+
+
+
+
+
+A medication used to treat other types
+of  cancer  strangles drug-resistant, metastatic  prostate cancer  by cutting
+off its blood supply, researchers from The University of Texas M. D.
+Anderson Cancer Center report in the June 7 issue of the Journal of the
+National Cancer Institute.    
+
+    Imatinib, known commercially as Gleevec, worked best when combined with
+the  chemotherapy  paclitaxel to slash the incidence of bone metastases and
+the size of tumors in mice injected with a multiple-drug resistant form of
+prostate cancer. Tumors were found in only 4 of 18 mice treated with the
+combination, median  tumor  weight was one tenth of a gram, and the cancer
+spread to the lymph nodes in three cases. Tumors grew in all 19 control
+mice, their median tumor weight was 1.3 grams, and all metastasized to the
+lymph nodes.    
+
+    This extremely drug-resistant form of the cancer, designed by the
+research team to emulate the grim clinical reality of prostate cancer that
+has spread into the bone, successfully warded off the combined medications
+in lab experiments, said Isaiah J. Fidler, D.V.M., Ph.D., chair of the
+Department of Cancer Biology and director of the Cancer Metastasis Research
+Center at M. D. Anderson.    
+
+    \"Why, then, did it work so well in the animal? Because we didn\'t attack
+the tumor, we attacked the blood vessels. We target and destroy the
+vasculature that provides oxygen and nutrients to tumor cells,\" said
+Fidler, the paper\'s senior author.    
+
+    Fidler and colleagues show in the JNCI paper that imatinib killed
+tumor- related blood vessel (endothelial) cells by inactivating the
+platelet-derived growth factor receptors (PDGF-R) on the cell surface. This
+prevents the receptor\'s activation either by PDGF binding to it externally
+or by a signal generated internally by the cell.    
+
+    Activation of PDGF-R stimulates the birth of new blood vessels,
+promotes cell division and migration, and inhibits a protective form of
+cell suicide known as apoptosis, all harmful effects in the service of a
+cancer cell.    
+
+    With imatinib preventing activation of PDGF-R, Fidler said, the
+endothelial cells died by apoptosis first, with tumor cells following suit
+one to two weeks later.    
+
+    Fidler said the findings are a vibrant example of the \"seed and soil\"
+hypothesis in metastasis -- the deadly spreading of a cancer from its organ
+of origin to other organs, a process that kills 90 percent of all patients
+who die from their disease.    
+
+    In landmark findings, Fidler and colleagues demonstrated that the vast
+majority of cancer cells that depart a tumor die swiftly once in
+circulation and that metastases originate from less than 1 percent of a
+cancer\'s cells and even can arise from a single cell.    
+
+
+
+
+
+
+
+    When these metastatic \"seeds\" enter circulation, they still need to
+find the exact microenvironment that permits them to grow. For prostate
+cancer, the second-leading cause of cancer death among men, that
+microenvironment is the bone.    
+
+    Earlier research by Fidler and colleagues showed PDGF-R activation in
+metastatic prostate tumors adjacent to the bone but not in tumor cells next
+to muscle. PDGF-R also was activated in tumor-associated endothelial cells
+in the bone, but not in those blood vessel cells in neighboring muscle.    
+
+    A JNCI paper by Fidler and colleagues in 2003 showed that blocking
+PDGF-R signaling in the mouse model of metastatic prostate cancer cut the
+incidence of cancer, reduced the size of tumors and incidence of
+metastasis.    
+
+    The question was whether the combination of imatinib and paclitaxel
+achieved this by attacking the tumor itself or the tumor-related blood
+vessels. This week\'s JNCI paper answers that question: it kills the blood
+vessels first. \"Here, we attack the soil. The seeds can be resistant. Kill
+the endothelial cell, you kill the soil,\" Fidler said.    
+
+    Imatinib had an effect by itself, but the best result came from the
+pairing with paclitaxel, known commercially as Taxol, which induces
+apoptosis in non-resistant cancer cells. Taxol, developed by the
+Bristol-Myers Squibb Co., is frontline therapy for prostate cancer but
+eventually loses its effect as resistant tumor cells proliferate.    
+
+    Gleevec, developed by Novartis Pharmaceuticals Corporation, is used to
+treat chronic myelogenous  leukemia  and gastrointestinal stromal tumors.
+    Cancer cells are biologically diverse and genetically unstable, Fidler
+says, so it is highly unlikely that a single therapy will prevail,
+necessitating a multi-modal attack on the disease.    
+
+    Paul Mathew, M.D., assistant professor, and Christopher Logothetis,
+M.D., professor and chair of the Department of Genitourinary Medical
+Oncology at M. D. Anderson, are leading a phase II clinical trial employing
+imatinib and docetaxel against androgen-independent prostate cancer.
+Docetaxel is in the same family of medication as paclitaxel.    
+
+    This research project was funded by a Cancer Center Support Core grant
+and a Specialized Programs in Research Excellence (SPORE) grant, both from
+the National Cancer Institute of the National Institutes of Health. Fidler,
+Mathew and Logothetis have research projects that are sponsored by Novartis
+Pharmaceuticals.    
+
+    Co-authors of the JNCI paper, all from M. D. Anderson, are: first
+author Sun-Jin Kim, M.D., Ph.D.; Hisanori Uehara, M.D., Ph.D.; Sertac
+Yazici, M.D.; Joseph Erik Busby, M.D.; Toru Nakamura, M.D., Ph.D.; Junqin
+He, M.D.; Marva Maya; Christopher Logothetis, M.D.; Paul Mathew, M.D.;
+Xuemei Wang; Kim-Anh Do, Ph.D.; and Dominic Fan, Ph.D.    
+
+
+
+
+
+
+University of Texas M. D. Anderson Cancer Center   
+ http://www.mdanderson.org 

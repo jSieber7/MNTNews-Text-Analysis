@@ -1,0 +1,30 @@
+
+
+
+
+
+Dartmouth Medical School geneticists have discovered that DNA damage resets the cellular circadian clock, suggesting links among circadian timing, the cycle of cell division, and the propensity for  cancer .
+   
+Their work, reported June 29 in Science Express, the advance electronic publication of Science, implies a protective dimension for the biological clock in addition to its pacemaker functions that play such a sweeping role in the rhythms and activities of life.
+   
+\"The notion that the clock regulates DNA-damage input and that mutation can affect the clock as well as the cell cycle is novel,\" says Jay Dunlap, professor and chair of genetics at DMS. \"It suggests a fundamental connection among circadian timing, cell cycle progress, and potentially the origins of some cancers.\"
+   
+Dunlap is a co-author of the paper with DMS colleagues, Jennifer Loros, professor of biochemistry, graduate student Christopher L. Baker, and former students António M. Pregueiro and Qiuyun Liu.
+   
+The team of Loros and Dunlap were among to first to delineate the intricate web of clockwork genes, proteins and feedback loops that drive circadian rhythms, working chiefly in the classic genetic model organism Neurospora, the common bread mold.
+   
+One gene (period-4) was identified over 25 years ago by a mutation that affects two clock properties, shortening the circadian period and altering temperature compensation. For this study, the researchers cloned the gene based on its position in the genome, and found it was an important cell cycle regulator. When they eliminated the gene from the genome, the clock was normal, indicating that the mutation interfered in some way with the clock, rather than supplying something that the clock normally needs to run.
+   
+Biochemically, the mutation results in a premature modification of the well understood clock protein, frequency (FRQ). The investigators demonstrated that this was a direct result of action by an enzyme, called in mammals checkpoint kinase-2 (CHK2), whose normal role is exclusively in regulating the cell division cycle. CHK2 physically interacts with FRQ; the mutation makes this interaction much stronger. However, a mutant enzyme that has lost its activity has no effect on the clock.
+   
+Normally CHK2 is involved in the signal response pathway that begins when DNA is damaged and results in a temporary stoppage of cell division until the damage is fixed. The researchers found that the resetting effect of DNA damage requires the period-4 clock protein, and that period-4 is the homolog, the Neurospora version, of the mammalian checkpoint kinase.
+   
+Moreover, the clock regulates expression of the period-4 gene. This closes a loop connecting the clock to period-4 and period-4 to the clock and the cell cycle. The clock normally modulates expression of this gene that encodes an important cell cycle regulator, and that cell cycle regulator in turn affects not only the cell cycle but also the clock.
+   
+Recent evidence in mammalian cells shows that other cell cycle regulators physically interact with clock proteins. Loss of at least one clock protein (mammalian period-2) is known to increase cancer susceptibility. The coordination of the clock and cell division through cell cycle checkpoints, supports the clock\'s \"integral role in basic cell biology,\" conclude the researchers.\" Their work can help advance understanding of cancer origins as well as the timing of anti-cancer treatment.
+   
+###
+   
+Contact: Dartmouth Public Affairs
+  
+ Dartmouth Medical School 

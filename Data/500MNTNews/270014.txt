@@ -1,0 +1,23 @@
+
+The slight increase in risk of developing type 2 diabetes during statin treatment may actually be a consequence of having lowered cholesterol, rather than a direct effect of the drug, according to research funded by the British Heart Foundation. The genetic study found that people with genes predisposing them to having lower levels of low density lipoprotein (LDL) cholesterol, had a decreased risk of heart disease and an increased risk of diabetes.
+
+The researchers, from UCL and the University of Oxford, used large data sets of genetic information to investigate the possible effects of two types of cholesterol, low density lipoprotein (LDL) cholesterol and high density lipoprotein (HDL) cholesterol, and a form of dietary fat known as triglycerides, on a person's risk of developing heart disease and diabetes.
+
+In order to see whether blood cholesterol or triglyceride levels were linked with heart disease and diabetes risk, the researchers compared heart disease and diabetes rates in people with and without naturally occurring variations in genes known to affect the levels of cholesterol and triglycerides within their blood.
+
+The researchers found that individuals with genetic variations that increase their LDL cholesterol or triglyceride levels were at an increased risk of heart disease. They also found that individuals with genetic variations increasing their LDL or HDL cholesterol, and possibly triglyceride levels, were at a slightly decreased risk of having diabetes.
+
+The results of this study, published in the journal JAMA Cardiology, confirm findings from many previous studies which have shown that increased levels of LDL cholesterol increase a person's likelihood of suffering from a heart attack or stroke. They also go some way to explaining why previous studies have shown that there is a modest increase in the risk of developing diabetes amongst people taking statins. However, it is well known that the protective effect of statins on heart disease and stroke substantially outweigh this modest increase in risk of diabetes. The researchers confirm that clinical guidelines around statin usage should not change, but doctors should be vigilant in monitoring patients for risk of developing diabetes.
+
+Further research is now needed to uncover exactly how an increase in LDL cholesterol in the blood protects against diabetes whilst increasing a person's risk of suffering from heart disease.
+
+Dr Michael Holmes, Senior Clinical Research Fellow from the University of Oxford, who led the research, said:
+"What we've shown in this study is that the role played by blood lipid levels in disease is a complex one. While the effect of taking LDL cholesterol-lowering drugs such as statins may slightly increase a person's risk of developing diabetes this effect is greatly outweighed by their benefits in the form of preventing people from suffering from a life-altering heart attack or stroke.
+
+"This study has provided yet more evidence that having increased HDL cholesterol may not be beneficial to heart disease. Of novel interest, our findings suggest that there could be a potential role for therapies that increase HDL cholesterol in the treatment and prevention of diabetes."
+
+Professor Jeremy Pearson, Associate Medical Director at the British Heart Foundation, which funded the research, said:
+
+"This carefully conducted large scale genetic study reports several novel and interesting results on the relationships between levels of different blood lipids and the risk of developing heart disease or diabetes. 
+
+"One key finding is that patients with naturally lower LDL cholesterol levels, similar to those taking a statin, have a slightly increased risk of diabetes, indicating that the risk is related to LDL levels and not to any separate effect of the statin itself." 

@@ -1,0 +1,42 @@
+
+In a new study, researchers reveal the discovery of an inflammatory process that might drive the development of cardiovascular disease in later life. They also found that caffeine consumption could counter this inflammatory process.
+
+Lead author David Furman, Ph.D., of the Institute for Immunity, Transplantation and Infection at Stanford University in California, and colleagues recently reported their findings in the journal Nature Medicine.
+
+Coffee, tea, soda, energy drinks, and chocolate are all commonly consumed foods and beverages that contain caffeine - a compound best known for its brain-stimulating abilities.
+
+However, there is much more to caffeine than simply providing a morning energy boost. A number of studies have suggested that regular coffee intake may increase longevity. One study published in 2015, for example, found that coffee drinkers who consumed one to five cups per day had a lower risk of all-cause mortality than people who did not.
+
+Now, Furman and colleagues say that they may have pinpointed one way by which caffeine consumption increases lifespan, and it may be down to its anti-inflammatory properties.
+
+For their study, the researchers first set out to identify the inflammatory processes that might contribute to poor heart health in older age.
+
+The team analyzed data from the Stanford-Ellison cohort, including one group of healthy adults aged between 20 and 30, and one group of healthy adults aged 60 and older.
+
+Upon assessing the blood samples of each participant, the researchers identified two gene clusters that were more highly activated in the older group. They found that these gene clusters were linked to the production of IL-1-beta, a type of circulating inflammatory protein.
+
+Next, the team assessed 23 older subjects, dividing them into two groups based on whether they had high or low activity in one or both of the gene clusters.
+
+The researchers then analyzed the medical history of each older participant. Among the 12 subjects who had high gene cluster activity, nine had high blood pressure, compared with only one of the 11 participants who had low gene cluster activity.
+
+Further investigation revealed that the older participants who had high gene cluster activity were also significantly more likely to have arterial stiffness - a risk factor for heart attack and stroke - compared with subjects who had low gene cluster activity.
+
+Additionally, the researchers found that participants in the high gene cluster group who were aged 85 or older in 2008 were much more likely to have passed away by 2016.
+
+Adults in the high gene cluster activity group also had high concentrations of IL-1-beta in their blood, as well as increased activity of free radicals - which are uncharged molecules that can cause cell damage - and a number of nucleic acid metabolites that are produced by free radical activity.
+
+Confirming the role of the two gene clusters in inflammation and heart health, the researchers found that they were able to increase activity in one of the gene clusters by incubating an immune cell with two of the nucleic acid metabolites produced by free radical activity. This led to an increase in IL-1-beta production.
+
+When the team injected these metabolites into mice, the rodents experienced high blood pressure and systemic inflammation. Furthermore, the renal pressure of the mice increased as a result of infiltrated immune cells, which blocked their kidneys.
+
+However, further analysis revealed that caffeine might counter the negative effects of nucleic acid metabolites.
+
+On assessing participants' caffeine intake, the researchers found that the blood of older adults who had low gene cluster activity was more likely to contain caffeine metabolites, such as theophylline and theobromine.
+
+When the researchers incubated immune cells with the caffeine metabolites and the nucleic acid metabolites, they found that the caffeine metabolites prevented the inflammatory effects of the nucleic acid metabolites.
+
+Co-senior author Mark Davis, Ph.D., also of the Institute for Immunity, Transplantation and Infection at Stanford, says these findings demonstrate that "an underlying inflammatory process, which is associated with aging, is not only driving cardiovascular disease but is, in turn, driven by molecular events that we may be able to target and combat."
+"That something many people drink - and actually like to drink - might have a direct benefit came as a surprise to us. We didn't give some of the mice coffee and the others decaf. 
+
+What we've shown is a correlation between caffeine consumption and longevity. And we've shown more rigorously, in laboratory tests, a very plausible mechanism for why this might be so."Mark Davis, Ph.D.
+Learn how caffeine may help to slow Parkinson's disease.

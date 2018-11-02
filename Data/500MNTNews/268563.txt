@@ -1,0 +1,30 @@
+
+Lead study author Dr. Katia Jedeon, of the French National Institute of Health and Medical Research (INSERM), and colleagues found exposure to the chemicals bisphenol A (BPA) and vinclozolin may interfere with hormones responsible for the growth of dental enamel.
+
+The researchers recently presented their findings at the 2016 European Congress of Endocrinology in Munich, Germany.
+
+BPA and vinclozolin have been identified as endocrine disruptors (EDs) in numerous studies. This means they can interfere with hormone functioning in mammals, increasing the risk of reproductive problems, cancer, births defects, and various other conditions.
+
+BPA is used in the production of certain plastics and resins, many of which are used for food and drink packaging, while vinclozolin is a fungicide used to protect vineyards, orchards, and golf courses.
+
+Dr. Jedeon and colleagues note that previous animal studies have indicated that EDs may be related to a condition called molar incisor hypomineralization (MIH), which is estimated to affect up to 18 percent of children aged 6-9 years.
+
+MIH is a developmental condition in which enamel defects occur in the first permanent teeth, most commonly the molars and incisors. Such a defect is irreversible; once tooth enamel is damaged, it cannot grow back.
+
+Children with MIH can experience heightened tooth sensitivity, particularly to cold foods and drinks, and they are at greater risk for dental caries. Their teeth may be creamy, yellow, or brown in appearance, and they may chip away easily.
+
+For their study, Dr. Jedeon and colleagues conducted two experiments to gain a better understanding of how exposure to EDs might be associated with MIH.
+
+Firstly, the team exposed rats to daily doses of either BPA alone or a combination of BPA and vinclozolin from birth for 30 days. Doses were equivalent to the average daily dose a human would be exposed to.
+
+At the end of the 30 days, the researchers collected cells from the surface of the rats' teeth.
+
+On analyzing the cells, they found that exposure to BPA and vinclozolin altered the expression of two genes - KLK4 and SLC5A8 - that regulate tooth enamel mineralization.
+
+Next, the researchers cultured ameloblast cells of rats, which are cells that deposit enamel during tooth development. They found that these cells contain sex hormones - including estrogen and testosterone - that increase the expression of genes that produce tooth enamel.
+
+Interestingly, they found that testosterone increases the expression of the KLK4 and SLC5A8 genes.
+
+Because both BPA and vinclozolin are known to inhibit the effect of male sex hormones, the authors say their findings indicate that the chemicals may lead to MIH by blocking hormones needed for development of tooth enamel.
+"Tooth enamel starts at the third trimester of pregnancy and ends at the age of 5, so minimizing exposure to endocrine disruptors at this stage in life as a precautionary measure would be one way of reducing the risk of enamel weakening."Dr. Katia Jedeon
+Learn how sharks could aid human tooth regeneration.

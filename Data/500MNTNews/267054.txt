@@ -1,0 +1,26 @@
+ 
+Across the United States, online vendors of e-liquids -- the nicotine-rich fluids that fuel electronic cigarettes -- are failing to take proper precautions in preventing sales to minors, according to a study by the University of California, Irvine and the University of North Carolina at Chapel Hill.
+
+Researchers found that only four of 120 vendors included in the study validated the ages of online purchasers. Fifteen of them also marketed directly to minors by providing free e-liquid products, candy and trinkets with youth appeal, such as playing cards, plastic balloon kits, bracelets and a collection of branded stickers.
+
+While there is no current federal ban on selling e-liquids to minors, at least 48 states, including California, and two territories prohibit sales of electronic cigarettes or vaping/alternative tobacco products to minors. The industry's two leading trade associations oppose marketing or selling to those under 18.
+
+"Regardless of whether they are members of trade associations or not, online vendors of e-liquids are not doing a good job of preventing sales to minors," said Dmitriy Nikitin, UCI public health researcher and study leader. "The FDA's upcoming rules on e-cigarette products should include explicit requirements for offline and online e-liquid vendors, particularly the use of effective age verification, warning labels and child-resistant packaging."
+
+David Timberlake, associate professor of public health at UCI, and Rebecca Williams of UNC contributed to the study, which appears online in Nicotine & Tobacco Research. The researchers' objective was to assess whether the nascent but rapidly growing e-liquid industry successfully prevents online sales to minors and employs safety measures to avoid accidental poisonings.
+
+For the study, three 16- and 17-year-olds attempted to purchase e-liquid products online. When queried on vendor websites, the minors gave correct names, addresses and Social Security numbers, but not correct birthdates; the provided birthdates corresponded to individuals in their mid-20s. The youths paid with debit cards that listed their names. They were instructed to provide a valid photo ID or driver's license (showing each's true age) if requested by vendors at the point of order or by delivery personnel.
+
+The minors sought to buy single bottles of liquid nicotine from 120 vendors; they received a total of 183 bottles overall. The additional ones were included as samples with the original orders. The average cost per order was $13.16. Shipments were received from 34 U.S. states.
+
+Of the 120 purchase attempts, only four were rejected due to the vendors' use of effective age verification. Three utilized third-party age verification software (ExpectID and AgeMatch), which nixed the youth sales after the buyers provided their real names and addresses. A fourth vendor cancelled the order after requiring the minor to upload an image of his (real) ID. One vendor claimed that the recipient's photo identification would be checked upon delivery; however, the parcel was simply left in the teen's mailbox.
+
+"It is disconcerting that e-liquid vendors made little effort to verify buyers' ages, although not surprising, as UNC's 2015 study in JAMA Pediatrics of e-cigarette sales to minors online saw similar results," Williams said.
+
+In addition, the researchers looked at the vendors' use of childproof packaging and warning labels. More than 87 percent of the ordered bottles had child-resistant caps; only 54 percent mentioned any health risks associated with nicotine use. Of the free bottles of e-liquid received, 82 percent were child-resistant. The study comes at an opportune time, with the FDA's impending regulation of electronic cigarettes and President Barack Obama's signing of a childproof packaging bill in January.
+
+The overall results show that members of e-liquid trade associations were not significantly more likely to properly verify age, have childproof containers or employ proper labeling than nonmembers, suggesting that voluntary efforts to protect consumer safety are inadequate and that more comprehensive regulation and enforcement is required.
+
+"UNC's ongoing Internet Tobacco Vendors Study of the e-cigarette and e-liquid industry has identified a population of thousands of vendors, indicating a large population of Internet vendors from which minors can purchase liquid nicotine and e-cigarette products without being stymied by effective age verification," Williams said.
+
+"Lax oversight of the e-liquid industry may draw consumers to bypass current tobacco control restrictions implemented in face-to-face sales settings," Nikitin added. "As a consequence, there may be an increase in online sales to minors. While use of child-resistant packaging is widespread, enforcement of the new federal regulations requiring such packaging may influence the vendors not currently using it to do so, leading to fewer cases of accidental nicotine poisoning."

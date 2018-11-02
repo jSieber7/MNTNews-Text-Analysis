@@ -1,0 +1,34 @@
+
+
+
+
+
+Treating major  depression  can be quite a puzzle, and a newly published UCLA study suggests medication is just one of many potential pieces.
+   
+Published in the August 2006 edition of the American Journal of Psychiatry, the study used electroencephalogram (EEG) measurements to demonstrate an association between eventual clinical outcome and regional changes in brain activity during a  placebo  lead-in phase prior to  antidepressant  treatment.
+   
+The findings suggest that factors such as patient beliefs and expectations, doctor-patient relationships, or treatment history help complete the treatment picture.
+   
+In this study, all subjects received blinded treatment with placebo for one week prior to receiving antidepressant medication. A "placebo lead-in" phase is commonly used to familiarize patients with study procedures and to minimize the effect of any pre-existing treatment for depression. The placebo lead-in includes patient care, participation and treatment with placebo; the clinical impact is largely unknown.
+   
+This study is the first to assess the relationship between brain changes during the placebo lead-in phase and later clinical outcome of antidepressant treatment.
+   
+"Treatment results appear to be predicted, in part, by changes in brain activity found during placebo lead-in--prior to the actual use of antidepressant medication," said lead author Aimee M. Hunter, a research associate at the Semel Institute for Neuroscience and Human Behavior at UCLA. "More research is needed to identify the impact of other non-drug factors that affect brain activity and clinical improvement in patients receiving antidepressant treatment." Semel Institute researchers examined data from 51 adults with major depression who were involved in two independent, double-blind placebo-controlled trials.
+   
+Quantitative EEG cordance measures were taken at baseline and at the end of the placebo lead-in period. Cordance is a quantitative EEG (QEEG) imaging technique developed at UCLA to measure brain function. Measurements are performed by placing recording electrodes on the scalp. The electrodes connect to the body through conductive paste or gel. It does not hurt and involves no radioactivity. The electrodes are connected to a computer, which measures the signals coming from the brain and processes them into colorful patterns.
+   
+Relationships between regional cordance changes at the end of the placebo lead-in period and clinical outcome were examined using a statistical tool called multiple linear regression analysis. Final outcomes were determined using Hamilton Rating Scale for Depression scores.
+   
+The study found that decreases in cordance in the prefrontal brain region during the placebo lead-in period were associated with lower depression-scale scores after eight weeks of antidepressant treatment. In subjects randomly assigned to medication, prefrontal changes during placebo lead-in explained 19 percent of the variance in final depression scores.
+   
+###
+   
+The study was supported by grants or awards from the National Center for Complementary and Alternative Medicine, the National Institute of Mental Health, the National Alliance for Research in Schizophrenia and Depression, Lilly Research Laboratories and Wyeth Pharmaceuticals. Co-authors were Dr. Andrew F. Leuchter, Melinda L. Morgan, and Dr. Ian A. Cook, all of UCLA's Semel Institute.
+   
+The Laboratory of Brain, Behavior, and Pharmacology is dedicated to improving treatment outcomes for psychiatric, neurologic and other medical illnesses through developing new methods to select the most effective treatment for each patient. We aim to translate biomarkers discovered in the research laboratory to clinical tests that could be used in the doctor's office or clinic setting to improve patient care. The laboratory is located within the Semel Institute of Neuroscience and Human Behavior at UCLA, an interdisciplinary research and education institute devoted to the understanding of complex human behavior, including the genetic, biological, behavioral and sociocultural underpinnings of normal behavior, and the causes and consequences of neuropsychiatric disorders.
+   
+For information about the laboratory, visit  http://www.brain.ucla.edu/ .
+   
+
+Contact: Dan Page  
+ University of California - Los Angeles  

@@ -1,0 +1,14 @@
+
+People with diabetes are one step closer to more easily checking their blood glucose levels with a non-invasive device for detecting and monitoring blood glucose levels, which is currently in development. The hand-held breathalyzer device detects acetone, which has been linked to high blood glucose levels in the breath. The research is being presented at the 2016 American Association of Pharmaceutical Scientists (AAPS) Annual Meeting and Exposition, the world's largest pharmaceutical sciences meeting. The meeting is taking place in Denver Nov. 13-17.
+
+Although testing technology has improved in recent decades, with the finger stick testing, as many as 67 percent of people with diabetes may not comply because it is invasive and somewhat painful. Yet, lack of blood-glucose monitoring can result in serious diabetes-related complications. For example, if a person's blood glucose is too low, complications can include seizures, loss of consciousness, and even death. If a person's blood glucose is too high, complications can include infections, cardiovascular disease and nerve and kidney damage.
+
+"We believe this technology will be a great improvement in the lives of people with diabetes," said Priefer. "It is the first non-invasive medical device for detecting and monitoring diabetes by connecting one's acetone levels with their blood glucose. We believe it is a necessary alternative to the finger-prick approach for people living with type 1 and type 2 diabetes."
+
+Ronny Priefer, Ph.D. and his colleague, Michael Rust, Ph.D., both out of Western New England University in Springfield, Mass., have developed a device - currently the size of small book - that individuals blow into to check their blood glucose levels.
+
+Priefer and his team tested the device in a blind study of 50 people: 26 did not have diabetes, 16 had type 2 diabetes, and 8 people had type 1 diabetes. Using the device in conjunction with the sensor slides, when patients blow into the device, readings are immediately taken. The acetone level is instantly correlated to a blood glucose level, which allows patients to determine how much insulin they need to take when their glucose levels are high. Stage 1 clinical results found clear correlations between blood glucose levels and breath acetone. The only outlier found was in a small number of smokers, whom had higher levels of acetone in the breath due to the combustion of tobacco.
+
+Priefer's goal is to have a device by the end of 2017 that patients can bring home and track their blood glucose levels over time. He is also working to make the device even smaller.
+
+Presentation: 04M1130 - Diabetes Monitoring: Just a Breath Away! was presented on Monday, Nov. 14 in the Colorado Convention Center - Exhibit Hall E.

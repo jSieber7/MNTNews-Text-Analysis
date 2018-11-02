@@ -1,0 +1,30 @@
+
+Australian researchers have discovered remarkable evolutionary changes to insulin regulation in two of the nation's most iconic native animal species - the platypus and the echidna - which could pave the way for new treatments for type 2 diabetes in humans.
+
+The findings, now published in the Nature journal Scientific Reports, reveal that the same hormone produced in the gut of the platypus to regulate blood glucose is also surprisingly produced in their venom.
+
+The research is led by Professor Frank Grutzner at the University of Adelaide and Associate Professor Briony Forbes at Flinders University.
+
+The hormone, known as glucagon-like peptide-1 (GLP-1), is normally secreted in the gut of both humans and animals, stimulating the release of insulin to lower blood glucose.
+
+But GLP-1 typically degrades within minutes.
+
+In people with type 2 diabetes, the short stimulus triggered by GLP-1 isn't sufficient to maintain a proper blood sugar balance. As a result, medication that includes a longer lasting form of the hormone is needed to help provide an extended release of insulin.
+
+"Our research team has discovered that monotremes - our iconic platypus and echidna - have evolved changes in the hormone GLP-1 that make it resistant to the rapid degradation normally seen in humans," says co-lead author Professor Frank Grutzner, from the University of Adelaide's School of Biological Sciences and the Robinson Research Institute.
+
+"We've found that GLP-1 is degraded in monotremes by a completely different mechanism. Further analysis of the genetics of monotremes reveals that there seems to be a kind of molecular warfare going on between the function of GLP-1, which is produced in the gut but surprisingly also in their venom," he says.
+
+The platypus produces a powerful venom during breeding season, which is used in competition among males for females.
+
+"We've discovered conflicting functions of GLP-1 in the platypus: in the gut as a regulator of blood glucose, and in venom to fend off other platypus males during breeding season. This tug of war between the different functions has resulted in dramatic changes in the GLP-1 system," says co-lead author Associate Professor Briony Forbes, from Flinders University's School of Medicine.
+
+"The function in venom has most likely triggered the evolution of a stable form of GLP-1 in monotremes. Excitingly, stable GLP-1 molecules are highly desirable as potential type 2 diabetes treatments," she says.
+
+Professor Grutzner says: "This is an amazing example of how millions of years of evolution can shape molecules and optimise their function.
+
+"These findings have the potential to inform diabetes treatment, one of our greatest health challenges, although exactly how we can convert this finding into a treatment will need to be the subject of future research."
+
+GLP-1 has also been discovered in the venom of echidnas. But while the platypus has spurs on its hind limbs for delivering a large amount of venom to its opponent, there is no such spur on echidnas.
+
+"The lack of a spur on echidnas remains an evolutionary mystery, but the fact that both platypus and echidnas have evolved the same long-lasting form of the hormone GLP-1 is in itself a very exciting finding," Professor Grutzner says.

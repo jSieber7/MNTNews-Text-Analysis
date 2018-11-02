@@ -1,0 +1,18 @@
+
+Type-1 diabetes occurs when immune cells attack the pancreas. EPFL scientists have now discovered what may trigger this attack, opening new directions for treatments.
+
+Type-1 diabetes is the rarest but most aggressive form of diabetes, usually affecting children and adolescents. The patient's own immune cells begin to attack the cells in the pancreas that make insulin, eventually eliminating its production in the body. The immune cells target certain proteins inside the insulin-producing cells. However, it is unclear how this actually happens. EPFL scientists have now discovered that the immune attack in type-1 diabetes may be triggered by the release of proteins from the pancreas itself, as well as the package they come in. The work, which has significant implications for therapy strategies, is published in Diabetes.
+
+Diabetes is a disease in which the body produces inadequate or no amounts of the hormone insulin, which regulates sugar levels in the blood. Insulin is produced by a group of cells in the pancreas called beta cells. In type-1 diabetes, the patient's immune cells specifically attack beta cells, thereby disrupting the production of insulin. However, we don't actually know what causes the immune cells to attack in the first place.
+
+Scientists from EPFL's Institute of Bioengineering, led by Steinunn Baekkeskov, have now discovered that pancreatic beta cells actually secrete proteins that are targeted by the immune attack. But it's not only the proteins that cause problems; the researchers found that it is also their packaging.
+
+That packaging comes in the form of small vesicles called exosomes, which are secreted by all cell types to distribute various molecules with different functions. But previous studies have shown that exosomes can also activate the immune system. Building on this, the EPFL researchers looked at exosomes from human and animal pancreatic beta cells.
+
+The results showed that rat and human pancreatic beta cells release three proteins known to be associated with type-1 diabetes, and are in fact used by clinicians to diagnose its onset in people.
+
+The researchers might have also discovered why the immune attack on the pancreas begins in the first place: When insulin-making beta cells were exposed to stress, they released high amounts of exosomes, which they also "decorated" with proteins that activate immune cells. These powerfully inflammatory proteins may be involved in induction of autoimmunity in the disease.
+
+The hope is that this will lead to new directions in developing more effective treatments that focus on developing exosome mimics that contain molecules inhibiting rather than stimulating immune cells. These synthetic molecules would be taken up by the patient's immune cells and would block them from attacking beta cells.
+
+This work was carried out at the EPFL's Institute of Bioengineering (IBI), by lead authors Chiara Cianciaruso and Edward A. Phelps, with contributions from EPFL's Proteomics Core Facility, Bio-Electron Microscopy Core Facility, Bio-Imaging Core Facility, the Swiss Institute for Experimental Cancer Research. It involves a collaboration with the European Consortium on Islet Transplantation (ECIT) Islets for Basic Research Program at the University Hospital of Geneva and at the San Raffaele Scientific Institute of Milan. It was funded by JDRF and EPFL.

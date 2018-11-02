@@ -1,0 +1,53 @@
+
+
+
+
+
+Scientists think they have found a gene combination which allows the deadly spread of  cancer  around the body.    
+While the findings are currently restricted to fruit flies, the team from Yale University in the US say similar genes may exist in humans. 
+   
+Cancers that spread, or metastasise, are some of the hardest to treat. 
+   
+The research, published in the journal Science, suggests there might one day be a way of blocking the spread of cancer by targeting one of the genes involved. 
+   
+The reason why certain cancer cells are able to leave their original  tumour  and migrate to other sites around the body are still poorly understood. 
+   
+However, scientists know that finding ways to stop this happening could potentially save many lives from the disease. 
+   
+Many believe that metastasis has a genetic root - with mutant genes in the tumour cells somehow circumventing normal safeguards which stop them growing uncontrollably then 'breaking out' to take hold elsewhere. 
+   
+However, with the likelihood that a combination of genes, rather than just one, is responsible for this, finding the culprits within the vast human genome is like finding a needle in a haystack. 
+   
+Fly solution
+   
+Instead, the Yale scientists turned their attention to Drosophila melanogaster a simple fruit fly that has a far smaller genome. 
+   
+They say that despite their apparent obvious differences, fruit flies and humans share many of the same genes, so it could be possible to study tumour spread in flies - and apply those findings in man. 
+   
+Other teams have already revealed a gene called 'Ras v12' - present in both flies and humans - which, when mutated, is thought to play a significant role in helping the tumour flourish in some types of cancer. 
+   
+However, this alone does not seem to produce cancer spread. 
+   
+The US researchers launched a screening programme - creating flies which have the mutant Ras v12 genes, then interfering with other key genes to see if they could find the combination which led to metastasis. 
+   
+They found a number of genes which normally play a role in the normal running of the cell, which, if inactivated in a tumour cell, produced flies with cancers that spread copiously. 
+   
+Blocking the problem
+   
+The study is more evidence of the guilt of the Ras gene in metastatic cancer. 
+   
+The more that researchers understand about the possible genes involved in cancer spread, the more chance there is of a method being created to interrupt it. 
+   
+In this case, the researchers believe that there may be a clear chemical 'pathway' within the cell which could influence the behaviour of many of the genes which might partner Ras V12 and cause problems. 
+   
+This in theory means that a drug might be found that can activate this pathway. 
+   
+Dr Wen Jiang, from the Metastasis Research Group at the University of Wales College of Medicine, said that the research was 'an interesting piece of work'. 
+   
+'They have created a new model to investigate the genetic events during the non- invasive to invasive phase of a tumour. 
+   
+'So far, this has been extremely difficult to study in humans, due largely to the limitation of capturing the right moment and correct tumour. 
+   
+'It has provided some early information that metastatic events and growth events may be distinct at genetic level. 
+   
+'The scientific community yet has to fully understand the genetic basis of this switch between non-invasive and invasive.' 

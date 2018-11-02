@@ -1,0 +1,16 @@
+
+Habitual cycling, whether as transportation to work or as a recreational activity, is associated with lower risk of developing type 2 diabetes (T2D), according to a study published this week in PLOS Medicine. This cohort study, conducted by Martin Rasmussen of the University of Southern Denmark, and colleagues, included 24,623 men and 27,890 women from Denmark, recruited between the ages of 50 and 65, and compared the association between self-reported recreational and commuter cycling habits with T2D incidence measured in the Danish National Diabetes Registry. The authors found that participants who engaged in habitual cycling were less likely to develop T2D, and risk of developing T2D appeared to decrease with longer time spent cycling per week.  Five years after they were initially recruited, participants were contacted for follow-up and their cycling habits were re-assessed. People who took up habitual cycling during this period were at 20% lower risk for T2D than non-cyclists.
+ 
+While the authors adjusted for potential confounding variables such as diet, alcohol and smoking habits, and physical activity outside of cycling, and also analysed for confounding by waist circumference and body-mass index, there is a chance these results may have been affected by unmeasured confounding, or bias due to patients with missing data, or as a result of self-reported cycling behavior. However, the findings that cycling activity, and even initiating cycling in late adulthood, may reduce risk of T2D, supports development of programs to encourage habitual cycling.
+  
+Dr. Rasmussen says: "Because cycling can be included in everyday activities, it may be appealing to a large part of the population. This includes people who due to lack of time, would not otherwise have the resources to engage in physical activity."
+  
+He also notes: "We find it especially interesting that those who started cycling had a lower risk of type 2 diabetes, given that the study population were men and women of middle and old age. This emphasizes that even when entering elderly age, it is not too late to take up cycling to lower one's risk of chronic disease."
+  
+This research article is accompanied by a Perspective by Jenna Panter and David Ogilvie calling for public health action to support evaluating interventions designed to increase physical activity habits in the population.
+  
+Both articles are publishing as part of the PLOS Medicine Special Issue on Diabetes Prevention, with Guest Editors Nick Wareham and William Herman.
+ 
+The Diet, Cancer and Health study was funded by the Danish Cancer Society. AG was supported by the Lundbeck Foundation (R151-2013-14641) and the Danish Council for Independent Research (DFF-4004-00111). The remaining authors received no funding for this work. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+JP and DO are supported by the Medical Research Council. The funders had no role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript.

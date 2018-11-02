@@ -1,0 +1,22 @@
+
+
+
+
+
+High-speed camera snapshots may have pinpointed a spot in the brain that serves as a marker for  depression . Investigators have observed that electrical chatter in the dentate gyrus-a C-shaped region of the hippocampus-contracts in depressed rats but expands again after the animals receive  antidepressants .    
+The region may represent a common pathway or intersection for brain activity in those suffering from depression, offering a springboard from which to map that activity and better understand the condition, says Karl Deisseroth, a Stanford University neuroengineer and psychiatrist, who led the study published online this week by Science.    
+Finding a common depression pathway in humans that could guide the search for treatments remains a "holy grail" of psychiatry, he says. "One of the mysteries of depression is how there can be so many different causes … and so many different treatments." A common pathway would bridge them, he adds.    
+The researchers induced depressionlike symptoms in rats by blasting static noise or otherwise annoying the animals at unpredictable intervals for several weeks. The chronically stressed rats swam less vigorously in a tank of water, indicating their feelings of rodent hopelessness.    
+To analyze the rats' brains, the team extracted brain slices from depressed and normal animals, soaked them in voltage-sensitive dye, and prodded them with electrodes next to a high-speed camera. When the brain cells fired, they activated the dye.    
+The camera was trained on the hippocampus, a small peanut-shaped part of the brain known to play a role in learning and memory, including navigation, but also implicated in mood and depression. The team found a smaller aura of activity originating from the curved dentate gyrus than in normal rats.    
+"We can do the equivalent of looking at one circuit board in a computer and find something that predicts behavior," Deisseroth says.    
+The result fit with prior research indicating that accelerated growth of new brain cells in the dentate gyrus, in a process called neurogenesis, is necessary for antidepressants to cure rats of their depression. When fed fluoxetine (Prozac), the depressed rats experienced more rapid neurogenesis and the range of electrical signals from their dentate gyri spread as far as in normal rats, the group reports.    
+Matching up depressed behavior with hippocampal activity is "pretty amazing," says Helen Mayberg, professor of psychiatry and neurology at Emory University in Atlanta. "It tells us the hippocampus is very involved," she says, "but it doesn't tell us it's the origin of the problem."    
+The hippocampus sends and receives information to and from many other brain regions, and mapping those connections in depressed animals is the next step, she says.    
+The causes of depression remain elusive, but Deisseroth sees a connection between the disease and the way that damage to the hippocampus can prevent people from remembering where things are located.    
+Similarly, although depression sufferers may face the same obstacles as others, "they just can't seem to see a path forward," he says. With any luck, he adds, his group's finding will put researchers on a path to figuring out a way to help them.    
+ "A crescent of electrical activity spotted in rats may allow researchers to map the depressed brain"    
+By JR Minkel  
+ Scientific American  
+  Click here to view article online      
+ http://www.sciam.com 

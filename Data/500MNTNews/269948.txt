@@ -1,0 +1,41 @@
+
+Body mass index (BMI) is a tool used to measure body fat and assess how it may influence the risk of associated health problems.
+
+For adults, BMI is calculated by dividing a person's weight by their height, and from this, they are given a score that places them into one of four categories: 
+
+
+Obesity has become a major health problem in the United States, currently affecting more than a third of American adults and raising their risk of heart disease, stroke, type 2 diabetes, and some types of cancer.
+
+But according to study co-author Peter Nordström, Ph.D., of Umeå University in Sweden, and colleagues, a higher BMI may not necessarily raise the risk of heart attack and death.
+
+The researchers came to their findings after analyzing 4,046 monozygotic - or identical - twin pairs, using data from the nationwide Swedish twin registry and the Screening Across Lifespan Twin (SALT) study.
+
+The authors explain that because monozygotic twins are genetically identical, they enable the assessment of obesity-related health risks independent of genetic factors.
+
+In all twin pairs, one twin was heavier than the other, with a higher BMI. Overall, the leaner twins  had an average BMI of 23.9, while the heavier twins had an average BMI of 25.9.
+
+During an average 12.4 years of follow-up, the team assessed the incidence of heart attack, death, and type 2 diabetes onset among each twin pair, and looked at whether this might be associated with BMI.
+
+For more than 3,200 of the twin pairs, the team also gathered data from questionnaires that detailed changes in BMI 30 years prior to study baseline.
+
+Overall, the researchers found that in each twin pair, the heavier twin - even those who had a BMI of 30 or more - was at no higher risk of heart attack or death during follow-up than the leaner twin.
+
+In detail, there were a total of 203 heart attacks (5 percent) and 550 deaths (13.6 percent) among the heavier twins, the authors report, and 209 heart attacks (5.2 percent) and 633 deaths (15.6 percent) among the leaner twins.
+
+Additionally, the researchers found changes in BMI in the 30 years before study baseline appeared to have no influence on the later risk of heart attack or death.
+
+When it came to onset of type 2 diabetes, however, the researchers found that the heavier twins were at greater risk than the leaner twins; a total of 345 cases of type 2 diabetes occurred among the heavier twins during follow-up, compared with 224 cases among the leaner twins.
+
+Furthermore, they found that twins who had experienced an increase in BMI in the 30 years before study baseline were more likely to later develop type 2 diabetes, regardless of their baseline BMI.
+
+Based on these latest findings and those of previous studies, Prof. Nordström and colleagues say the importance of obesity and the development of type 2 diabetes is "indisputable."
+
+"These results suggest a causal link between obesity and the risk of diabetes, independent of genetic influence," they note.
+
+However, while the authors say their study is unable to conclude that a higher BMI does not raise the risk of heart attack or death, they believe the results raise questions about the efficacy of weight loss strategies against such conditions:
+"The association between obesity and diabetes was significantly stronger than the association with CVD [cardiovascular disease] and death. This finding may indicate that interventions to promote weight loss are more effective in reducing the risk of diabetes than the risk of CVD and mortality."
+The researchers point to a number of study limitations. For example, the height and weight of the twin pairs were self-reported, which may have influenced the results.
+
+Additionally, they note that they did not gather information on subjects' waist circumference - an indicator of central obesity - which they say has been more strongly linked to CVD than BMI.
+
+Read about a study in which researchers argue that BMI should no longer be used to measure health.

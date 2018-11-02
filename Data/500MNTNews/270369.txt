@@ -1,0 +1,46 @@
+
+In America, more than 30 million people have a diabetes diagnosis.
+
+Of these cases, around 5 percent are classed as type 1 diabetes.
+
+Type 1 diabetes, usually diagnosed in young adults and children, is an autoimmune disorder; it is sometimes referred to as juvenile diabetes.
+
+The individual's immune system attacks and destroys specific cells within the pancreas - islet cells - that create insulin.
+
+With the following decrease in insulin, blood glucose builds up and damages nerves and blood vessels.
+
+The exact causes of type 1 diabetes are not understood; both genes and environmental factors are thought to play a role.
+
+For unknown reasons, the number of type 1 diabetes diagnoses is rising. According to some estimates, globally, type 1 diabetes is increasing by 3 percent year on year. 
+
+One theory to explain the increase in type 1 diabetes involves the interaction between antibiotics and gut bacteria. The microorganisms that live in our gut - the microbiome, or "healthy" bacteria - have evolved alongside humanity and are now indispensable to our normal functioning.
+
+Incredibly, there are more bacteria living within us than there are cells in our body. You could say that we are more them than us. 
+
+Among other roles, some believe that the gut biome helps train the developing immune system to not be overly sensitive. In other words, by being introduced to microbes as we grow, the immune system learns to be less trigger-happy.
+
+Over recent years, childrens' exposure to microbe-destroying antibiotics has steadily risen. By the age of 10, the average American child has received 10 courses of antibiotics.
+
+A study, carried out at NYU Langone Medical Center and published in Nature Biology this week, set out to investigate this theory. The study used a mouse model of type 1 diabetes and doses of antibiotics equivalent to those given to children.
+
+The team was led by Dr. Martin Blaser, The Muriel G. and George W. Singer Professor of Translational Medicine at NYU School of Medicine. They used non-obese diabetic mice (NOD), which are susceptible to developing type 1 diabetes.
+
+The NOD mice were either given continuous low-dose antibiotics or pulsed antibiotic therapy (PAT), which is more similar to the type of doses children often experience.
+
+When the mice were tested at the end of the trial, 53 percent of those exposed to PAT had developed type 1 diabetes, compared with 26 percent of the control mice that received no antibiotics.
+
+As Dr. Blaser says: "Our study begins to clarify the mechanisms by which antibiotic-driven changes in gut microbiomes may increase risk for type 1 diabetes."
+
+Each mouse's gut bacteria was sampled before, during, and after the study to measure any changes in number and species.
+
+The changes were profound. In the 3-month-old PAT mice, one specific species of gut bacteria - which has previously been shown to help train the immune system - had almost totally disappeared. In each of the three bacteria-sampling tests, the PAT mice's bacterial diversity was reduced when compared with the control mice.
+
+To assess the ability of the changed gut flora to affect health, the team carried out a further experiment. They transferred the gut bacteria of a PAT mouse into the gut of a mouse bred to have none of its own gut flora (germ-free mice).
+
+After the transfer was complete, the researchers observed similar changes in their immune system; this proves that the changes in gut bacteria alone (independent of antibiotics) can make significant changes to the developing immune system. 
+"This is the first study of its kind suggesting that antibiotic use can alter the microbiota and have lasting effects on immunological and metabolic development, resulting in autoimmunity. 
+
+We're eager to see how these findings may impact the discovery of type 1 diabetes preventive treatments in the future and continued research in the area of vaccines."Jessica Dunne, director of Discovery Research at Juvenile Diabetes Research Foundation
+These findings have huge implications for national health. As the researchers admit, these are preliminary studies and will need to be replicated; however, they could influence the way in which antibiotics are administered further down the line.
+
+Learn how synthetic immune cells might be the answer to antibiotic resistance.

@@ -1,0 +1,18 @@
+
+Scientists from the Welcome Trust Sanger Institute and their collaborators have discovered 17 rare human genetic variations associated with risk factors for diseases such as heart disease and diabetes. 
+
+Reported in Nature Genetics, the research shows how large scale genomic datasets can be used to help identify potential novel biological targets for studying cardiovascular and other diseases.
+
+Genetics have been implicated in cardiovascular and blood diseases for some time, however as these are complex diseases, it is extremely difficult to find specific genetic causes. In this study, scientists studied the genomes of almost 36,000 healthy people with European ancestry, looking for rare genetic links to 20 known risk factors for disease, such as raised levels of cholesterol or haemoglobin in the blood.
+
+Two previous large-scale projects provided the whole genome sequences needed: the UK10K project  - a study of the genetic code of 10,000 people that aims to better understand links between rare genetic variations and disease; and the 1000 genome project. From this data, the scientists created a resource called a dense imputation panel, which is freely accessible to the scientific community. The panel holds so much detail that it can fill in the gaps or 'impute' data missing from lower resolution genetic studies. 
+
+The level of detail the imputation panel provides enabled the scientists to look at specific disease risk factors, and find 17 new genetic variants. Of these, 16 would have been extremely difficult to find without the imputation panel data.
+
+Professor Nicole Soranzo, joint senior author from the Sanger Institute, said: "The dense imputation panel used in this study allowed us to search for genetic variations that are much less frequent than ever before, but that individually explain a greater genetic risk.  As efforts continue to characterise the genetic underpinnings of complex diseases, the methods we have developed in this study are expected to enable the next wave of discoveries of what causes these diseases, and how we might develop new treatments."
+
+Dr Valentina Iotchkova, first author from the Sanger Institute and the European Bioinformatics Institute said: "This is the first stage of a discovery process that is going to tell us more about the contribution genetics makes to complex human diseases. We looked at where in the genome these 17 new variants lie to see what that could tell us about biology; about the changes they make to the body and how that could make a person more or less susceptible to disease."
+
+The researchers then applied an analytical technique called fine-mapping to study hundreds of regions of the human genome that contain genetic risk factors for cardiometabolic disease. For 59 regions, they were able to narrow down the most likely genetic causes to small sets of genetic variants. Combining this fine mapping technique with biological data drilled it down even further and provided additional functional insight into the underlying biology.
+
+Dr Paul Auer, joint senior author on the paper from the University of Wisconsin-Milwaukee:  "Our study provides a refined method to use the panel alongside other analysis techniques to find rare variants that contribute to complex genetic conditions like heart disease or diabetes. We have also narrowed down the set of potentially causal variants to a small set of variants for further follow up. We focused on cardiometabolic traits but the panel covers the entire human genome so it could be used to glean a deeper understanding of genetic contributions to disease in any part of the human body."

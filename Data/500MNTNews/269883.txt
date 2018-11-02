@@ -1,0 +1,22 @@
+
+A team of researchers led by a Virginia Tech nutrition scientist discovered a molecular mechanism behind fat cell growth and expansion that suggests obese people with Type 2 diabetes or pre-diabetes may more easily accumulate fat.
+ 
+Publishing in Cell Cycle, the researchers discovered that the formation and expansion of fat cells was associated with an increase in autophagy - a normal physiological process in which cells remodel, break down, or recycle cell parts.
+ 
+The new study suggests that a particular protein called FoxO1 controls autophagy, which also controls the growth of fat particles in fat cells from mice.
+
+"Earlier evidence suggests that autophagy is enhanced in fat tissue in people who are obese and have Type 2 diabetes. Our findings shed light on the mechanistic mystery of this phenomenon," said Zhiyong Cheng, an assistant professor of human nutrition, foods, and exercise in the College of Agriculture and Life Sciences and a Fralin Life Science Institute affiliate. "Because FoxO1 is activated by insulin resistance, obese and diabetic individuals may have an increase in the process of autophagy because this protein triggers it. When this happens, it promotes fat cell formation and expansion."
+ 
+The study was funded by grants from the USDA National Institute of Food and Agriculture Hatch Project and the National Institutes of Health.
+ 
+A normal rate of fat cell formation and growth is important for the body to store energy and maintain homeostasis, explained Cheng. Evidence also suggests that fat tissue is an endocrine organ and thus responsible for the secretion of molecules that regulate various cellular functions, including metabolism and inflammation response in the body. Healthy fat tissue secretes anti-inflammatory hormones that help maintain a healthy functioning metabolism. However, fat tissue may become dysfunctional due to obesity, which increases pro-inflammation factors and promotes metabolic disorders.
+ 
+"Abnormal fat tissue expansion might be a result of hyperactivity of the FoxO1 protein and of a nutrient surplus in obese diabetic people," said Cheng, who is an also affiliate of the Fralin Translational Obesity Research Center at Virginia Tech. "Further studies from here could lead to the discovery of a drug so that the pathway could be blocked and abnormal fat cell expansion could be stopped, which would prevent the increase of adiposity, or severe body weight."
+ 
+"Given that FoxO1 is also implicated in the pathogenesis of Type 2 diabetes, targeting it may even be beneficial for obese individuals with diabetes," said Yun Chau Long, one of the study's co-authors at the Yong Loo Lin School of Medicine at the National University of Singapore, Singapore.
+ 
+Chronic obesity is associated with increased risk of Type 2 diabetes, heart disease, high blood pressure, gallstones, breathing problems, and certain types of cancer, according to the National Heart, Lung, and Blood Institute. In the United States, obesity accounts for more than 300,000 deaths per year.
+
+Other co-authors from the department of human nutrition, foods, and exercise in the College of Agriculture and Life Sciences at Virginia Tech include doctoral student Longhua Liu, of Jiangxi Province, China; Louise Zheng, a research associate; Peng Zou, a postdoctoral fellow; Joseph Brooke, a 2016 Virginia Tech alumnus from Centreville, Virginia; Cayleen Smith, a rising senior from Leesburg, Virginia; and Dongmin Liu, an associate professor affiliated with the Fralin Life Science Institute and the Fralin Translational Obesity Research Center.
+ 
+The author team also includes Fabio Almeida, a former Virginia Tech investigator who is now in the College of Public Health at the University of Nebraska Medical Center. Cheng and Almeida collaborated on another recent study, in which they and a team of Virginia Tech collaborators found a potential biomarker for early stage pre-diabetes. 

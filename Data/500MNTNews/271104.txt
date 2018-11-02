@@ -1,0 +1,8 @@
+
+The relationship between the birth weight of an individual and their susceptibility to diseases in adulthood, such as to type 2 diabetes and cardiovascular disease, has an important genetic component, finds a new paper published online in Nature. The study identifies 60 genomic regions associated with birth weight, most of which had not previously been identified.
+
+Previous studies have reported association between birth weight and future risk of developing diseases; this new work demonstrates a role for genetic variation in this correlation.
+
+Mark McCarthy and colleagues combine genome-wide association study (GWAS) data for birth weight from 153,781 individuals representing multiple ancestries - including individuals of European, African American, Chinese, Filipino, Surinamese, Turkish and Moroccan - from a total of 37 studies. First, they identify 60 genomic regions where fetal genotype is associated with birth weight. They then study these genetic associations to understand the relationship between birth weight and disease. They find an inverse genetic correlation between birth weight and risk factors for developing type 2 diabetes or coronary artery disease as an adult.
+
+The authors caution that these results contrast with, but are not necessarily incompatible with, the idea that adverse events taking place in the womb (such as nutrient deprivation) trigger diseases later in life. They note that future studies should elucidate the relationship between events in early life and predisposition to cardiometabolic disease several decades later.

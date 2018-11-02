@@ -1,0 +1,30 @@
+
+The researchers found that mice fed a high-calorie diet developed more brown fat, burned more calories, had less total body fat, and experienced less weight gain when treated with bexarotene (Bex) - a drug approved for the treatment of cutaneous T cell lymphoma - than rodents that did not receive the anticancer drug.
+
+Senior researcher Sheng Ding, Ph.D., of the Gladstone Institutes in San Francisco, CA, and colleagues recently published their findings in the journal Cell Reports.
+
+Brown fat, or brown adipose tissue, is one of the two main types of fat in the human body, with the other being white fat. White fat is responsible for storing energy and heat insulation, whereas brown fat is responsible for burning energy through heat production, or thermogenesis. 
+
+In babies, brown fat makes up around 5 percent of their total body mass and helps to keep them warm. As we age, however, the amount of brown fat we possess is reduced.
+
+In recent years, studies have suggested that adults who have greater amounts of brown fat are leaner, and that increasing the production of brown fat may be an effective weight loss strategy.
+
+"Introducing brown fat is an exciting new approach to treating obesity and associated metabolic diseases, such as diabetes," notes first study author Baoming Nie, Ph.D., a former postdoctoral scholar at Gladstone.
+
+"All current weight loss drugs control appetite, and there is nothing on the market that targets energy expenditure," he adds. "If we can create additional stores of brown fat and boost its function in the body, we could burn off the energy stored in white fat more easily."
+
+In order to increase brown fat stores, researchers have been searching for ways to turn white fat cells into brown fat cells. For the new study, Ding and colleagues tested more than 20,000 chemicals, with the aim of identifying ones that could do just that.
+
+The researchers found that the anticancer drug Bex was most effective. By activating a protein called retinoid X receptor (RXR), the team found that Bex prompted a series of changes in white fat cells and muscle precursor cells that converted them into cells that mimic brown fat.
+
+In detail, the researchers found that when Bex activated RXR, genes responsible for brown fat production were also activated, while genes associated with white fat and muscle were deactivated.
+
+Next, the researchers set out to determine the effects of Bex on body weight in mice.
+
+The team fed mice a high-calorie diet for 4 weeks. Half of the mice were treated with Bex, while the remaining half did not receive the drug.
+
+Compared with the untreated mice, the rodents that received Bex showed higher amounts of brown fat, burned more calories, had less total body fat, and gained less weight, despite both groups being fed the same diet.
+
+Taken together, the researchers believe their findings indicate that Bex could offer an effective way to boost brown fat production and reduce obesity - a condition that currently affects more than a third of adults in the United States.
+"We're very excited about the prospect of using a drug to generate brown fat in the body. However, while Bex is very effective at creating brown fat cells, it is not a very specific drug, and there are several potential side effects that may arise from taking it. Our next task is to develop a safer, more targeted drug that only affects genes involved in creating brown fat."Sheng Ding, Ph.D.
+Learn how a mulberry compound could aid weight loss by activating brown fat.

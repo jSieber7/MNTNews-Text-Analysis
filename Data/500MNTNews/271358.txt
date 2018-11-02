@@ -1,0 +1,14 @@
+
+A study conducted at the University of Eastern Finland revealed that a recently described T cell subset may have a central role in the development of type 1 diabetes. These so called follicular T helper cells were found to be increased at the onset of type 1 diabetes, and the phenomenon was linked with the presence of autoantibodies commonly associated with the disease.
+
+Type 1 diabetes is an autoimmune disease where the immune system destroys the insulin-producing beta cells in the pancreas. Type 1 diabetes typically manifests in childhood and early adolescence. Diabetes-associated autoantibodies are highly predictive of type 1 diabetes risk and they can be typically detected in the blood of patients even years before the onset of the disease.
+
+T cells are immune cells that have an important role orchestrating the functions of the immune system. Follicular helper T cells are a recently described subset of T cells that have a central role in activating B cells, which in turn are responsible for producing antibodies.
+
+Since the emergence of autoantibodies is a common feature of type 1 diabetes development, it is plausible that follicular T helper cells have a role in the disease process. This notion is also supported by evidence recently generated in the murine model of type 1 diabetes.
+
+In a study led by Academy Research Fellow Tuure Kinnunen, samples from the Finnish DIPP follow-up study were used. In the DIPP study, children with an increased genetic risk for developing type 1 diabetes are longitudinally followed for the development of the disease. In the current study, the frequency of blood follicular T helper cells was observed to increase close to the onset of type 1 diabetes. Moreover, the phenomenon was only observed in a subgroup of children that were positive for multiple diabetes-associated autoantibodies. This finding suggests a connection between the activation of follicular helper T cells and the activation of autoantibody-producing B cells in type 1 diabetes.
+
+Taken together, the current results support the idea that follicular helper T cells have a role in the development of type 1 diabetes. Immune therapies that target these cells can therefore be envisioned to have potential in the prevention of type 1 diabetes.
+
+The study also involved researchers from the Universities of Turku, Helsinki, Tampere and Oulu.

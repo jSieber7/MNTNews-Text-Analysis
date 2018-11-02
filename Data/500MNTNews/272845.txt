@@ -1,0 +1,18 @@
+
+A new Tel Aviv University study finds that a popular food supplement called phosphatidylserine may be instrumental in reversing the detrimental effects of Familial Dysautonomia (FD), a debilitating neurodegenerative disorder that affects approximately 1 in 31 Jewish people of Eastern European, or Ashkenazi, ancestry. FD affects aspects of the autonomic nervous system such as swallowing, sweating, and pain sensitivity, and places patients at increased risk for pulmonary and gastrointestinal complications.
+
+The research, led jointly by Prof. Gil Ast and Prof. Eran Perlson of TAU's Sackler School of Medicine, generated a mouse model of FD to examine the neuron degeneration caused by FD and to observe the positive effects of the novel therapy. The study was published in PLOS Genetics.
+
+"Neurons are the longest cells in our body," said Prof. Ast. "'Highways' along our neurons allow 'trucks' with 'cargo' to supply our neurons with essential supplies. In most neurodegenerative diseases these highways - called microtubules - and the axonal transport process are impaired. Our study demonstrates that alterations in the stability of microtubules and disruptions in the transport may lead to FD."
+
+The research team, including Shiran Naftelberg-Blonder and other TAU students, generated a mouse model of FD. The mice exhibited symptoms similar to those experienced by human patients with FD, including developmental delays, sensory abnormalities, unstable microtubules, and impairment of axonal retrograde transport of nerve growth factor.
+
+"We found that in neurons from our FD mice, the microtubular highways were impaired by elevated levels of an enzyme called HDAC6," said Prof. Ast. "This impairment removed the adhesive that connects the 'bricks' of the highway. This led to less stabilized highways and to the slower movement of cargo along it."
+
+Once the mouse exhibiting FD symptoms was generated, the researchers administered a phosphatidylserine treatment, which lowered the level of the enzyme that removed the "glue" from the "bricks" of the microtubular highways. Phosphatidylserine contains both amino acids and fatty acids and is known to be effective in slowing down long-term memory loss.
+
+The researchers found that the treatment with phosphatidylserine enhanced the stability of the microtubular "highways" and improved the movement of "cargo" along these pathways. "We identified the molecular pathway that leads to neurodegeneration in FD and demonstrated that phosphatidylserine has the potential to slow progression of neurodegeneration," said Prof. Ast.
+
+"Phosphatidylserine can repair the activity in neurons from the FD mouse by reducing the amount of the enzyme that removes the 'glue' from the 'bricks,'" Prof. Ast continued. "This elevates the stability of the 'highways' and increases essential cargo movement along these neurological pathways."
+
+The researchers are currently researching ways of improving the delivery of phosphatidylserine to the nervous system. Teva Pharmaceuticals contributed support for this research through the National Network of Excellence.

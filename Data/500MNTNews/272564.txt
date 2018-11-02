@@ -1,0 +1,16 @@
+
+Type 2 diabetes is characterized by impaired glucose metabolism and can cause central nervous system-related complications, such as memory dysfunction. The hippocampus is an essential brain component for normal memory formation. However, the effect of impaired glycometabolism on hippocampal-mediated memory in type 2 diabetes patients is not known.
+
+In a new study, researchers centered at the University of Tsukaba investigated whether hippocampal glucose metabolism and memory function is altered in a rat model of type 2 diabetes. Based on the idea that exercise normalizes glycometabolism and improves memory function, the research team also investigated the effects of exercise on hippocampal glycometabolism and memory formation.
+
+Hippocampal function was evaluated by placing the rat in a circular pool and testing its ability to remember the location of a platform that would allow it to escape from the water. "This is a well-established method for measuring spatial learning and memory," study first author Takeru Shima says.
+
+Type 2 diabetic rats needed more time to escape the water and find the platform. However, after 4 weeks of moderate exercise, they were able to find the platform much faster. "This indicated that exercise significantly improved spatial memory impairments in type 2 diabetic rats," Shima explains.
+
+Glycogen levels are altered in tissues of diabetes patients, leading to a variety of complications. However, glycogen levels have not yet been investigated in the hippocampus. "We showed for the first time that glycogen levels are significantly higher in the hippocampus of diabetic rats," corresponding author Hideaki Soya says.
+
+Interestingly, single bout of exercise reduced hippocampal glycogen levels and this correlated with an increase in lactate levels. Lactate is an energy substrate and neuromodulator in the hippocampus, and is known to enhance memory formation. Lactate is transferred to neurons through monocarboxylate transporters (MCTs). "MCT2 expression was significantly lower in the hippocampus of type 2 diabetic rats," Soya says, "dysregulated MCT2-mediated neuronal uptake of lactate is a possible aetiology of memory dysfunction in type 2 diabetes, and that elevated hippocampal glycogen may be an adaptive change to compensate for the decreased lactate utilization".
+
+4 weeks of moderate exercise further enhanced glycogen levels and normalized MCT2 expression in the hippocampus of type 2 diabetic rats." These findings suggest that disrupted MCT2-mediated uptake of lactate by neurons contributes to memory dysfunction in type 2 diabetic rats.
+
+The findings indicate that moderate exercise could be used to treat memory impairment in patients with type 2 diabetes by promoting the transfer of glycogen-derived lactate to hippocampal neurons.

@@ -1,0 +1,32 @@
+
+Certain viruses, such as influenza, could survive on children's toys long enough to result in exposures, placing children at risk for getting infectious diseases, according to researchers at Georgia State University.
+
+The researchers tested how long an enveloped virus could survive on pieces of a flexible plastic children's toy, a squeaking frog. They were able to recover infectious virions (complete viral particles) from the toy up to 24 hours after the toy's contamination at 60 percent relative humidity, and up to 10 hours at 40 percent relative humidity.
+
+These findings show enveloped viruses could survive on toys long enough to result in exposures. Enveloped viruses have a protective outer layer that may help them survive and infect other cells. Examples of such viruses include influenza and Coronaviruses, such as severe acute respiratory syndrome (SARS) or Middle East Respiratory Syndrome (MERS).
+
+The study is published online in The Pediatric Infectious Disease Journal.
+
+"People don't really think about getting viruses from inanimate objects," said lead author Richard Bearden II, who holds a master of science degree in biology from Georgia State. "They think about getting them from other people. Children are vulnerable to contracting infectious disease because they put their hands and foreign objects in their mouths, and their immune systems aren't fully developed."
+
+Toys may be an important channel for the transmission of viral diseases among children. Previous studies have found viral contamination of shared toys in daycares, doctor's offices and homes. In particular, toys in common play areas in healthcare settings have been implicated as vehicles for outbreaks of viral illness.
+
+However, it has remained unknown how long enveloped viruses can survive on inanimate objects, making it difficult to assess the potential risk of infection and design effective control measures, such as disinfection. This study investigated how long it takes for an enveloped virus to become inactive on the surface of a children's toy at typical indoor temperatures and relative humidity levels.
+
+For the study, researchers used an enveloped bacteriophage, a virus that infects bacteria, to model what the survival of viruses that infect humans may look like. They placed the virus on the toy in controlled humidity environments at 22 degrees Celsius at either 40 percent or 60 percent relative humidity.
+
+Over a 24-hour period, one percent of the virus remained infectious on the toy at 60-percent relative humidity, showing a 99-percent reduction in the number of infectious viruses.
+
+"It's likely the research team could have retrieved infectious virions beyond 24 hours," Bearden said.
+
+The virus was less stable at 40-percent relative humidity, which is more common in indoor environments. In the first two hours, 0.01 percent of the virus remained, showing a 99.9-percent reduction in the number of infectious viruses. Researchers were able to recover 0.0001 percent of the infectious virus at 10 hours.
+
+Still, if any virus remains, there's a risk that children could become ill. Indoor relative humidity can vary based on where a person lives, so it's important to concentrate on preventing the spread of disease, Bearden said.
+
+"I think the main focus should be for parents, daycare facilities, doctor's offices and other places where children share toys to implement some type of strategy for decontamination to make sure those toys aren't a reservoir for disease," he said.
+
+For instance, toys that are shared should be decontaminated often. Household bleach is among the best cleaning solutions. Eliminating toys from waiting rooms in healthcare settings is also recommended. A decontamination plan could also include door handles, elevator buttons and other commonly shared surfaces, Bearden said.
+
+Lisa Casanova, assistant professor in the School of Public Health at Georgia State, was a corresponding author of the paper.
+
+The study was funded by a Georgia State University Research Initiation Grant.

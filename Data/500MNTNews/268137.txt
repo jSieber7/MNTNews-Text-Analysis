@@ -1,0 +1,44 @@
+
+In the journal Diabetes, researchers reveal that the two fruit compounds work together to reduce blood glucose levels, improve insulin activity, and boost the health of arteries.
+
+Obesity affects more than a third of adults in the United States, raising their risk of heart disease, type 2 diabetes, stroke, and some forms of cancer.
+
+At the same time, cardiovascular disease (CVD) - a term used to describe diseases of the heart and blood vessels - is responsible for around 1 in 3 deaths in the U.S., while diabetes affects around 9.3 percent of Americans.
+
+Such statistics highlight the need for more effective treatment strategies for these conditions. 
+
+Now, study leader Paul Thornalley, professor in systems biology at Warwick, and colleagues suggest red grapes and oranges may pave the way for such treatments.
+
+For their study, the team investigated the effects of a compound called trans-resveratrol (tRES), found in red grapes, and a compound found in oranges called hesperetin (HESP).
+
+On testing a combination of the compounds in cell culture, the researchers found that it increased expression of glyoxalase 1 (Glo1) - an enzyme that neutralizes a compound called methylglyoxal (MG).
+
+The team explains that MG is a key driver of sugar's harmful effects on the body; a combination of high MG levels and a high-calorie diet is a cause of insulin resistance, which can lead to type 2 diabetes. It also damages blood vessels and can drive high cholesterol levels - a risk factor for CVD.
+
+As such, the team hypothesizes that blocking MG by increasing Glo1 expression could reverse these effects.
+
+"Obesity, type 2 diabetes and cardiovascular disease are at epidemic levels in Westernized countries. Glo1 deficiency has been identified as a driver of health problems in obesity, diabetes and cardiovascular disease," notes Prof. Thornalley.
+
+Next, the team tested the tRES-HESP combination on 32 adults aged 18-80 who had a body mass index (BMI) of between 25-40, falling into the overweight or obese categories.
+
+Participants were given the fruit compound combination in the form of a supplement, which they were asked to take once a day for 8 weeks.
+
+During the study period, subjects were asked to continue with their usual diets and not to increase physical activity, enabling the researchers to gain a more accurate picture of the supplements' effects.
+
+Blood samples were taken from participants on a regular basis during the 8-week period and analyzed for sugar levels and other blood markers. The artery health of the participants was assessed by measuring artery wall flexibility.
+
+The researchers found that participants who had a BMI of more than 27.5 demonstrated increased Glo1 activity with the daily supplement, as well as reduced insulin levels, improved insulin activity, better artery function, and reduced blood vessel inflammation.
+
+Subjects who were given a placebo showed no such effects, the researchers note.
+
+Prof. Thornalley and his team point out that the doses of tRES and HESP used in this study are too high to get from fruit consumption.
+
+However, they hope their findings will encourage pharmaceutical companies to create a drug using the compounds, paving the way for a new treatment for obesity, diabetes, and CVD.
+"This is an incredibly exciting development and could have a massive impact on our ability to treat these diseases. As well as helping to treat diabetes and heart disease it could defuse the obesity time bomb." Prof. Paul Thornalley 
+"As exciting as our breakthrough is," he notes, "it is important to stress that physical activity, diet, other lifestyle factors and current treatments should be adhered to."
+
+"Our new pharmaceutical is safe and expected to be an effective add-on treatment taken with current therapy," he adds.
+
+Prof. Thornalley says the team is currently seeking commercial investors and partners in order to test the effectiveness of their treatment for diabetic kidney disease.
+
+Learn how a Mediterranean diet could boost heart health.

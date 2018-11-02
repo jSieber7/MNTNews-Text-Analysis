@@ -1,0 +1,20 @@
+
+Researchers at the University of Cambridge have taken the first step towards developing a new form of treatment for type 1 diabetes which, if successful, could mean an end to the regular insulin injections endured by people affected by the disease, many of whom are children.
+
+Type 1 diabetes is one of the most common chronic diseases in children and there is a rapid increase in the number affected each year. About 400,000 people in the UK are affected, 29,000 of them children. In type 1 diabetes, the body's own immune system mistakes the insulin producing cells of the pancreas as harmful, attacks and then destroys them. The result is a lack of insulin, which is essential for transporting glucose from the blood into cells. Without insulin, glucose levels in the blood rise, causing short term and long term damage: hence patients have to inject themselves several times a day with insulin to compensate.
+
+In a study published in the open access journal PLOS Medicine, a team led by researchers from the JDRF/Wellcome Trust Diabetes Inflammation Laboratory at the Cambridge Institute of Medical Research used a drug to regulate the immune system with the aim of preventing a patient's immune cells attacking their insulin-producing cells in the pancreas.
+
+The drug, aldesleukin, recombinant interleukin -2 (IL-2), is currently used at high doses to treat certain types of kidney tumours and skin cancers. At much lower doses, aldesleukin enhances the ability of immune cells called regulatory T cells (Tregs) to stop the immune system losing control once stimulated and prevent it from damaging the body's own organs (autoimmunity).
+
+Critical to this approach was to first determine the effects of single doses of aldesleukin on Tregs in patients with type 1 diabetes. To achieve this the team employed a state-of-the-art trial design combined with extensive immune monitoring in 40 participants with type 1 diabetes, and found doses to increase Tregs by between 10-20%. These doses are potentially enough to prevent immune cells from attacking the body, but not so much that they would supress the body's natural defences, which are essential for protecting us from infection by invading bacteria or viruses.
+
+The researchers also found that the absence of response of some participants in previous trials may be explained by the daily dosing regimen of aldesleukin used. The current trial results suggest that daily dosing results in Tregs becoming less sensitive to the drug, and the recommendation from the study is that the drug should not be administered on a daily basis for optimal immune outcomes.
+
+"Type 1 diabetes is fatal if left untreated, but the current treatment - multiple daily injections of insulin - are at best inconvenient, at worst painful, particularly for children," says Dr Frank Waldron-Lynch, who led the trial. "Our goal is to develop a treatment that could see the end to the need for these life-long, daily injections by curtailing the early damage caused by the patient's own immune system.
+
+"Our work is at an early stage, but it uses a drug that occurs naturally within the body to restore the immune system to health in these patients. Whereas previous approaches have focused on suppressing the immune system, we are looking to fine-tune it. Our next step is to find the optimal, 'Goldilocks' treatment regimen - too little and it won't stop the damage, too much and it could impair our natural defences, but just right and it would enhance the body's own response."
+
+The researchers say that any treatment would initially focus on people who are newly-diagnosed with type 1 diabetes, many of whom are still able to produce sufficient insulin to prevent complications from the disease. The treatment could then help prevent further damage and help them to continue to produce a small amount of insulin for a longer period of time.
+
+The research was largely funded by the type 1 diabetes charity JDRF, the Wellcome Trust and the Sir Jules Thorn Charitable Trust, with support from the National Institute for Health Research (NIHR) Cambridge Biomedical Research Centre.
